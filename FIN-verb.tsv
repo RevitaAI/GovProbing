@@ -1,0 +1,2375 @@
+v	ID	###	Noun base	Verb base	PROPERTIES	group	trans?	object	argument	locative argument	weak / optional argument	Examples: Positive	Examples: Negative + Question	NEGATIVE examples: should NOT match	Noun examples	GROUPS + COMMENTS + NOTES		DISTRACTORS
+	6			ahdistaa			Transitive	HEAD:Noun + Case:Partitive				Tentti ahdistaa minua.				??? tunnekausatiivi ?		
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	7		ahdistelu	ahdistella			Transitive	HEAD:Noun + Case:Partitive				Mies ahdistelee minua.						
+					*CONCEPTS*													
+	8		ahdistus	ahdistua			Intransitive	—	HEAD:Noun + Case:Elative			Opiskelija ahdistui tentistä.				ELATIIVI-non-loc ???		
+					*CONCEPTS*													
+	9			aiheuttaa		MUUTOS?	Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Allative	Tämä aiheuttaa meille töitä.	Tämä ei aiheuta meille paljoa töitä.			Tämä ei aiheuta meille juurikaan töitä.	töitä	
+					*CONCEPTS*													
+	10			aiheutua			Intransitive	—	HEAD:Noun + Case:Elative		HEAD:Noun + Case:Allative	Tästä aiheutuu meille iso työ.	Tästä aiheutuu meille paljon työtä.			ELATIIVI-loc ???		
+					*CONCEPTS*													
+	11		aikomus	aikoa		MODAL	Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Aion lähteä torille						
+					*CONCEPTS*													
+	12			ajatella			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative				Mitä ajattelet Liisasta?					
+					*CONCEPTS*													
+	13		ajatus	ajatella			Transitive	HEAD:Noun + Case:Elative				! sopimuksesta						
+					*CONCEPTS*													
+	14		alennus	alentaa			Transitive	HEAD:Noun + Case:Partitive				Kauppias alensi hintoja.  // Inflaatio alentaa rahan arvoa.				CH:Noun + Case:Partitive		
+					*CONCEPTS*													
+	15			alentaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Liike alentaa hinnan kahteen euroon.	Liike ei alenna hintaa kahteen euroon.  //   Alenna hinta kahteen euroon!					
+					*CONCEPTS*													
+	16		alennus	alentaa			Transitive	! HEAD:Noun + Case:Objective	! HEAD:Noun-ONLY + Case:Translative	 		Esimies alensi hänet apulaisjohtajaksi. // Esimies alensi heidät apulaisjohtajiksi	Hänet alennettiin apulaisjohtajaksi. // Hänen alentamisensa apulaisjohtajaksi(?)					
+					*CONCEPTS*													
+	17			alentua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän alentui pyytämään anteeksi.						
+					*CONCEPTS*													
+	18			alistaa			Transitive	! HEAD:Noun + Case:Objective	! HEAD:Noun-ONLY + Case:Translative			Alistin hänet apulaiseksi. // Alistin nuoren miehen apulaiseksi. // Alistin nuorta miestä apulaiseksi. (Partitive singular) // Alistin nuoria miehiä apulaisiksi. (Partitive plural)						
+					*CONCEPTS*													
+	19			alistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Alistin häntä siihen.  //  Alistin pojan valtaani.	Presidentti yritti alistaa hallituksen valtaansa.			"häntä" AMBIGUOUS N "häntä", Pronoun		
+					*CONCEPTS*													
+	20			alistua			Intransitive	—	HEAD:Noun + Case:Illative			Hän alistui kohtaloonsa.						
+					*CONCEPTS*													
+	21			alistua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Alistuin tiskaamaan.						
+					*CONCEPTS*													
+	22		alku	alkaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Hän alkoi yskiä.						
+					*CONCEPTS*													
+	23			alkaa			Intransitive	—	HEAD:Noun + Case:Elative			Hinnat alkavat 10 eurosta						
+					*CONCEPTS*													
+	24		aloitus	aloittaa		(+minen)	Transitive	HEAD:Noun + Case:Objective				Hän aloittaa kurssin. // Aloitan suomen kielen opiskelun syyskuussa.						
+					*CONCEPTS*													
+	26			altistaa		MUUTOS?	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Hän altisti filmin valolle.						
+					*CONCEPTS*													
+	27		altistus	altistua		MUUTOS?	Intransitive	—	HEAD:Noun + Case:Allative			Vanhus altistuu taudille.	Vanhus saa altistua influenssalle.					
+					*CONCEPTS*													
+	28		anomus	anoa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Ablative			Anon apua sinulta ensi viikolla. // avun anominen kaverilta.						
+					*CONCEPTS*													
+	29			anoa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Anoin häntä lopettamaan.						
+					*CONCEPTS*													
+	30			antaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative / HEAD:Noun + Case:Illative			Annoin hänelle sanakirjan.	Hän antaa rahaa hyväntekeväisyyteen.	Hän hänelle antaa rahaa hyväntekeväisyyttä varten.		(? $$$ anna mennä)		
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	32			antaa			Transitive	! HEAD:Noun + Case:Objective	! Base:pois			Annoin vanhat kengät pois.						
+					*CONCEPTS*													
+	34		arvostus	arvostaa			Transitive	HEAD:Noun + Case:Partitive				Arvostan häntä suuresti.						
+					*CONCEPTS*													
+	35			asennoitua			Intransitive	—	HEAD:Noun + Case:Illative			Hän asennoituu myönteisesti kaikkeen uuteen.						
+					*CONCEPTS*													
+	36		asennus	asentaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Asensin taloon sähkölämmityksen.						
+					*CONCEPTS*													
+	37		asetus	asettaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Asetin astiat kaappiin.	Asetin astiat hyllylle.					
+					*CONCEPTS*													
+	38	4.8		asettua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Pojat asettuivat riviin.  //  Pojat asettuivat paikoilleen.	Asettukaa riviin!  //  Asettukaa paikoillenne!					
+					*CONCEPTS*													
+	39			asettua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän asettuu aina istumaan eturiviin.						
+					*CONCEPTS*													
+	40		askel?	astua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Hän astui olohuoneesta eteiseen.	Hän astui pysäkiltä laiturille.					
+					*CONCEPTS*													
+	41		asumus	asua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Asumme Helsingissä.	Asumme Vantaalla.					
+					*CONCEPTS*													
+	42		apu	auttaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive			Hän auttaa minua tässä työssä.	Hän auttoi minua eilen.					[ Part Allat Gen ] [ Illat Gen ]
+					*CONCEPTS*													
+	43			auttaa			Intransitive	—	HEAD:Noun + Case:Illative			Aspiriini auttaa päänsärkyyn.						
+					*CONCEPTS*													
+	44			auttaa			Transitive	! HEAD:Noun + Case:Partitive	! POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän auttoi minua leipomaan leipää.						
+					*CONCEPTS*													
+	45			auttaa			Transitive	! HEAD:Noun + Case:Objective	! HEAD:Noun + Case:Elative			Palomies auttoi hänet ojasta.						
+					*CONCEPTS*													
+			avaus	avata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Keskustelu avataan yleisölle // avata sydämensä kissalle // Tie avattiin liikenteelle						
+					*CONCEPTS*													
+			sulku	sulkea			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Odottakaa sulkematta puhelinta // Kadonnut puu sulki häneltä tien // hänen oli tarkoitus sulkea hevonen kilpailusta // sulkea työ pois mielestään // sulkea pakanat kirkon sakramenttiyhteydestä				smt wrong with the verb "sulkea"? (many interpretations "sulkia")  : NEW FAIL		
+					*CONCEPTS*													
+	46		avustus	avustaa			Transitive	HEAD:Noun + Case:Partitive				Ruotsi avusti Suomea sodan aikana.						
+					*CONCEPTS*													
+	47		boikotti	boikotoida			Transitive	HEAD:Noun + Case:Partitive				Kauppaliitto boikotoi yhtä jäsenmaata.						
+					*CONCEPTS*													
+v	48		buuaus	buuata		REAKTIO?	Intransitive	—	HEAD:Noun + Case:Allative			Yleisö buuasi esitykselle. //  Buuasin presidentille.						
+					*CONCEPTS*													
+	49		edellytys	edellyttää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Ablative			He edellyttävät työnhakijalta ruotsin kielen taitoa.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	50			edeltää			Transitive	HEAD:Noun + Case:Partitive				Sadetta edelsi kova tuuli.						
+					*CONCEPTS*													
+	51		edistys	edistää			Transitive	HEAD:Noun + Case:Partitive				Hyvä muisti edistää oppimista.						
+					*CONCEPTS*													
+	52		edustus	edustaa			Transitive	HEAD:Noun + Case:Partitive				Ulkoministeri edusti Suomea hyvin.						
+					*CONCEPTS*													
+	53			edustaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Hän edustaa Suomea olympialaisissa.	Hän edustaa Suomea Venäjällä.					
+					*CONCEPTS*													
+	54		ehdotus	ehdottaa			Transitive	HEAD:Noun + Case:Partitive				Tuula ehdottaa Timoa.						
+					*CONCEPTS*													
+	55			ehdottaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Ehdotan teille pitkää lomaa.	Ehdotan virkaan Mäkelää.					
+					*CONCEPTS*													
+	56			ehdottaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Ehdotan Timoa puheenjohtajaksi. // Ehdotan siskoani puheenjohtajaksi // miehen ehdottaminen puheenjohtajaksi				(= ehdottaa / epäillä / sanoa)		
+					*CONCEPTS*													
+	57			ehdottaa			Transitive	että-lause				Ehdotan, että odotamme vielä 5 minuuttia.						
+					*CONCEPTS*													
+	58			ehtiä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			ehdin töihin // ehdin ajoissa junalle				adverb "ajoissa" breaks pattern		
+					*CONCEPTS*													
+	59	4.8		ehtiä		MODAL	Intransitive	—	POS:Verb + INF_FORM:Inf-A + Case:Lative / POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Ehdin saada työn valmiiksi.  //  Ehdin saamaan työn valmiiksi.						
+					*CONCEPTS*													
+	61			eläytyä			Intransitive	—	HEAD:Noun + Case:Illative			Empaattinen ihminen osaa eläytyä toisten tunteisiin.						
+					*CONCEPTS*													
+	60		elo	elää			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Kilpikonna elää vedessä.	Kilpikonnia elää vedessä ja maalla.					
+					*CONCEPTS*													
+	62		ennätys	ennättää			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Juoksija ennätti maaliin ennen muita // Komission jäsen ennätti edelleni				(= ehtiä / ennättää)		
+					*CONCEPTS*													
+	63			ennättää			Intransitive	—	POS:Verb + INF_FORM:Inf-A + Case:Lative / POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Ennätin saada työn valmiiksi.  //  Ennätin saamaan työn valmiiksi.						
+					*CONCEPTS*													
+	64		epäilys	epäillä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			He epäilevät häntä rikoksesta.	Poliisi epäilee häntä.					
+					*CONCEPTS*													
+	65			epäillä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Poliisi epäilee miestä syylliseksi. // miehen epäileminen syylliseksi				(= ehdottaa / epäillä / sanoa)		
+					*CONCEPTS*													
+	66			epäillä			Transitive	että-lause				Epäilen, että tämä työ epäonnistuu.						
+					*CONCEPTS*													
+	67			epäonnistua			Intransitive	—	HEAD:Noun + Case:Inessive			Epäonnistuin tentissä.						
+					*CONCEPTS*													
+	68		epäröinti	epäröidä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Hän epäröi mennä johtajan puheille.						
+					*CONCEPTS*													
+	69		erehdys	erehtyä			Intransitive	—	HEAD:Noun + Case:Inessive			Erehdyin tässä asiassa.				(= haksahtaa / erehtyä)		
+					*CONCEPTS*													
+	70			erehtyä			Intransitive	—	HEAD:Noun + Case:Elative			Asiakas erehtyi ovesta.						
+					*CONCEPTS*													
+	71			erehtyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Erehdyin menemään väärään huoneeseen.	mennä					
+					*CONCEPTS*													
+	72			erikoistua			Intransitive	—	HEAD:Noun + Case:Illative			Hän on erikoistunut kirurgiaan.						
+					*CONCEPTS*													
+	73			erikoistua			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Erikoistun lastenlääkäriksi.	Aion erikoistua lastenlääkäriksi.					
+					*CONCEPTS*													
+	74			erikoistua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Tehdas on erikoistunut valmistamaan saunakiukaita.						
+					*CONCEPTS*													
+	75		ero	erota			Intransitive	—	HEAD:Noun + Case:Elative			Hän erosi työstä viime kuussa.  //  Hän erosi miehestään viime vuonna.				Hän erosi: "erosi" ambiguous here (wrong) , noun ero+POSS vs verb		
+					*CONCEPTS*													
+	76			erota			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			He erosivat sovussa // Tulokset erosivat parilla pisteellä						
+					*CONCEPTS*													
+	77		erotus	erottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Rehtori erotti oppilaan koulusta.						
+					*CONCEPTS*													
+	78			erottua			Intransitive	—	HEAD:Noun + Case:Elative			Hän erottui joukosta.						
+					*CONCEPTS*													
+	79		esitys	esiintyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Hän esiintyy televisiossa.  //  Hän esiintyy tanssilavalla.						
+					*CONCEPTS*													
+	80		esittely	esitellä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Esittelen ystävän sinulle.	Voit esitellä ystävän minulle.					
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	81		esto	estää		??? need ! ?	Transitive	! HEAD:Noun + Case:Partitive	! POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Sade esti minua menemästä ulos.						
+					*CONCEPTS*													
+	81			estää			Transitive	HEAD:Noun + Case:Objective				Hän esti onnettomuuden.						
+					*CONCEPTS*													
+	82		etsintä	etsiä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Etsin kirjaa kaapista.  //  Etsin kirjaa hyllyltä.				"etsin" ambiguous N (etsin) vs. V ; "kirjaa" ambiguous N vs. V (kirjata)		
+					*CONCEPTS*													
+	83		evakuointi	evakuoida			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Valtio evakuoi ihmiset maasta.						
+					*CONCEPTS*													
+	84			evakuoida			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Valtio evakuoi kaikki ihmiset naapurimaahan.	Valtio evakuoi kaikki ihmiset Tampereelle.					
+					*CONCEPTS*													
+	85		haaste	haastaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Haastan hänet oikeuteen.						
+					*CONCEPTS*													
+	86		haastattelu	haastatella			Transitive	HEAD:Noun + Case:Partitive				Toimittaja haastatteli pääministeriä.						
+					*CONCEPTS*													
+	87			haastatella			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Toimittaja haastatteli pääministeriä asiasta. // pääministerin haastatteleminen  asiasta.	Asiasta haastateltiin presidenttiä.					
+					*CONCEPTS*													
+	88		haave	haaveilla			Intransitive	—	HEAD:Noun + Case:Elative			Liisa haaveilee Pekasta. // Liisa haaveilee matkustamisesta.						
+					*CONCEPTS*													
+	89		haaveilu	haaveilla			Intransitive	—	HEAD:Noun + Case:Elative			Äiti haaveili etelänmatkasta.						
+					*CONCEPTS*													
+	90		haava	haavoittaa			Transitive	HEAD:Noun + Case:Partitive				Sanat haavoittivat minua. // Veitsi haavoitti minua						
+					*CONCEPTS*													
+	91			haavoittaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Puukko haavoitti häntä sormeen.						
+					*CONCEPTS*													
+	92			haavoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Sotilas haavoitti vihollista veitsellä.						
+					*CONCEPTS*													
+	93			haavoittua			Intransitive	—	HEAD:Noun + Case:Illative			Hän haavoittui jalkaan.						
+					*CONCEPTS*													
+	94			haavoittua			Intransitive	—	HEAD:Noun + Case:Elative			Hän haavoittui luodeista.						
+					*CONCEPTS*													
+	95			haavoittua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Isoisä haavoittui talvisodassa.						
+					*CONCEPTS*													
+	96			haikailla			Transitive	HEAD:Noun + Case:Partitive			HEAD:Noun + Case:Illative	Minä haikailen romantiikkaa elämääni.						
+					*CONCEPTS*													
+	97		haikailu	haikailla			Intransitive	—	HEAD:PostPosition + Base:perään + Gov_Case:Genitive			Minä haikailen rakkauden perään.						
+					*CONCEPTS*													
+	103	2.4	haju	haista		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / HEAD:Noun + Case:Allative / POS:Adjective + Case:Ablative / POS:Adjective + Case:Allative			Lenkkeilijä haisi hieltä // Pilaantunut ruoka haisee pahalle						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	104		haitta	haitata			Transitive	HEAD:Noun + Case:Partitive				Haju haittaa minua.						
+					*CONCEPTS*													
+	105		(hajonta)	hajota			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Maljakko hajosi sirpaleiksi.						
+					*CONCEPTS*													
+	106			hajottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative									
+					*CONCEPTS*													
+	107			hajottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / HEAD:Noun + Case:Illative			Lapsi hajotti maljakon palasiksi.  //  Lapsi hajotti maljakon moneen osaan.						
+					*CONCEPTS*													
+	108		hakemus	hakea			Transitive	HEAD:Noun + Case:Partitive				Haen uutta viisumia.				('apply for')		
+					*CONCEPTS*													
+	109		hakemus	hakea			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Hain paketin postista. // äiti hakee paketin postista kotiin						
+					*CONCEPTS*													
+	111		haku	hakea			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Haen Liisan syömään.						
+					*CONCEPTS*													
+	112			hakeutua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän hakeutui hoitoon sairaalaan  //  He hakeutuivat opetusalalle.						
+					*CONCEPTS*													
+	113		haksahdus	haksahtaa			Intransitive	—	HEAD:Noun + Case:Inessive			Hän haksahti laskuissaan pahasti.				(= haksahtaa / erehtyä)		
+					*CONCEPTS*													
+	114			haksahtaa			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Haksahdin ottamaan työn vastaan.						
+					*CONCEPTS*													
+	115		halaus	halata			Transitive	HEAD:Noun + Case:Partitive				Hän halasi minua.						
+					*CONCEPTS*													
+	116		halkaisu	halkaista			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Halkaisin omenan kahteen osaan.						
+					*CONCEPTS*													
+	117			halkaista			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Hän halkaisi melonin palasiksi.						
+					*CONCEPTS*													
+	118		halu	haluta		MODAL	Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative / HEAD:Noun + Case:Objective				Haluan oppia suomea. // Pekka haluaa uuden asunnon.		haluan ravintolaan // haluan oppimaan suomea (different meaning) // haluan luistelemaan				
+					*CONCEPTS*													
+	119			haluttaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua haluttaa lähteä elokuviin.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	120		halveksunta	halveksia			Transitive	HEAD:Noun + Case:Partitive				Hän halveksii minua.						
+					*CONCEPTS*													
+	109			hankkia			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative								
+					*CONCEPTS*													
+	124			harjoitella			Transitive	HEAD:Noun + Case:Objective				Harjoittelen tempun.	Olen harjoitellut sitä monta vuotta.					
+					*CONCEPTS*													
+	125		harjoitus	harjoitella			Intransitive		POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Lapsi harjoittelee kävelemään/kävelemistä	Lentäjät harjoittelevat simulaattorissa			(can't invent example with object + Vmaan)		
+					*CONCEPTS*													
+	126		harkinta	harkita			Transitive	HEAD:Noun + Case:Partitive				Harkitsen asiaa.						
+					*CONCEPTS*													
+	127			harmittaa			Transitive	HEAD:Noun + Case:Partitive				Minua harmittaa.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	128		harmi	harmittaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua harmittaa istua sisällä kauniina kesäpäivänä.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	130		harrastus	harrastaa		(+minen)	Transitive	HEAD:Noun + Case:Partitive				Hän harrastaa jalkapalloa. // Hän harrastaa lukemista.						
+					*CONCEPTS*													
+	134			haudata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän hautasi sotakirveensä. // minä hautasin sotakirveeni.						
+					*CONCEPTS*													
+	135			haukkua			Transitive	HEAD:Noun + Case:Partitive				Koira haukkui postinkantajaa.						
+					*CONCEPTS*													
+	136			haukkua			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Hän haukkui minua laiskaksi.						
+					*CONCEPTS*													
+	137			hautautua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän hautautui lumeen.	Todistus hautautui pöydälle paperien alle.			!=hautaantua		
+					*CONCEPTS*													
+	138			havahtua			Intransitive	—	HEAD:Noun + Case:Elative			Havahduin ajatuksistani.						
+					*CONCEPTS*													
+	139			havahtua			Intransitive	—	HEAD:Noun + Case:Illative			Havahduin siihen, että joku tuli huoneeseen.						
+					*CONCEPTS*													
+	147			havitella			Transitive	HEAD:Noun + Case:Partitive				Hän havittelee uutta virkaa.						
+					*CONCEPTS*													
+	148			heijastaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Heijastan kuvan seinälle.						
+					*CONCEPTS*													
+	149		heijastus	heijastua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Valo heijastuu ikkunaan.						
+					*CONCEPTS*													
+	150			heijastua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Valo heijastuu ikkunasta.	Ikkunasta heijastui valoa.  //  Tytön kasvoilta heijastui ilo.					
+					*CONCEPTS*													
+	151		heilautus	heilauttaa			Transitive	HEAD:Noun + Case:Partitive				Tyttö heilauttaa hiuksiaan.				possessive ending to object		
+					*CONCEPTS*													
+	152		heilutus	heiluttaa			Transitive	HEAD:Noun + Case:Partitive				Tuuli heiluttaa puuta.						
+					*CONCEPTS*													
+	153			helliä			Transitive	HEAD:Noun + Case:Partitive				Hän hellii kissaa sylissään.						
+					*CONCEPTS*													
+	154			helpottaa			Transitive	HEAD:Noun + Case:Partitive				Lääke helpottaa kipua.						
+					*CONCEPTS*													
+	155			helpottaa			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Kuva helpottaa ymmärtämään asiaa.						
+					*CONCEPTS*													
+	156			hemmotella			Transitive	HEAD:Noun + Case:Partitive				Hän hemmottelee poikaa.	Kummitäti hemmottelee poikaa suklaalla ja lahjoilla.					
+					*CONCEPTS*													
+	160			hermostua			Intransitive	—	HEAD:Noun + Case:Elative			hermostua turhasta	Mistä hermostuit?					
+					*CONCEPTS*													
+	161			hermostua			Intransitive	—	HEAD:Noun + Case:Illative			Hän hermostui lapseen, joka kyseli koko ajan.						
+					*CONCEPTS*													
+	162			hermostuttaa			Transitive	HEAD:Noun + Case:Partitive				Sinä hermostutat minua.	Hermostutat minua.					
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	163			hermostuttaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua hermostuttaa lähteä.	Minua hermostutti kuunnella häntä aamusta iltaan.					
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	158			herättää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Minä herätän sinut kouluun.  //  Minä herätän sinut kurssille.						
+					*CONCEPTS*													
+	159		herätys	herättää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Minä herätän lapsen syömään.	Herätä minut syömään parin tunnin kuluttua.					
+					*CONCEPTS*													
+	157			herätä			Intransitive	—	HEAD:Noun + Case:Illative			Heräsin kellonsoittoon.						
+					*CONCEPTS*													
+	164			hidastaa			Transitive	HEAD:Noun + Case:Partitive	—			Työ hidastaa opiskelua.	Auto hidastaa vauhtia risteyksessä.					
+					*CONCEPTS*													
+	165			hikoilla			Intransitive	—	HEAD:Noun + Case:Elative			Hän hikoilee jännityksestä.						
+					*CONCEPTS*													
+	166			himoita			Transitive	HEAD:Noun + Case:Partitive				Hän himoitsee kaikkea: rahaa, rakkautta ja naapurin autoa.						
+					*CONCEPTS*													
+	167			himoita			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Hän himoitsee päästä matkalle.						
+					*CONCEPTS*													
+	168			himottaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua himottaa syödä valkosipulia.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	169			hipaista			Transitive	HEAD:Noun + Case:Partitive				Hipaisin keittolevyä ja poltin sormeni.						
+					*CONCEPTS*													
+	170			hirvittää			Transitive	HEAD:Noun + Case:Partitive				Opiskelijaa hirvitti tentti.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	171			hirvittää			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua hirvittää lähteä ulos tuollaisella ilmalla.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	172		hokema	hokea			Transitive	HEAD:Noun + Case:Partitive				Hän hokee samaa asiaa aamusta iltaan.						
+					*CONCEPTS*													
+	173			hokea			Transitive	että-lause				Hän hoki itselleen, että ...						
+					*CONCEPTS*													
+	174			horjuttaa			Transitive	HEAD:Noun + Case:Partitive				Myrsky horjuttaa tornia.						
+					*CONCEPTS*													
+	175			houkutella			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Metsästäjä houkutteli saaliin ansaan.						
+					*CONCEPTS*													
+	176			houkutella			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän houkutteli minut lähtemään ulos.						
+					*CONCEPTS*													
+	177			huijata			Transitive	HEAD:Noun + Case:Partitive				Hän huijasi minua autokaupassa.						
+					*CONCEPTS*													
+	178		huijaus	huijata			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive			Hän huijasi minua siinä asiassa.						
+					*CONCEPTS*													
+	179			huijata			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Myyjä huijasi Liisaa maksamaan liikaa.						
+					*CONCEPTS*													
+	180		huimaus	huimata			Transitive	HEAD:Noun + Case:Partitive				Minua huimaa korkeilla paikoilla.						
+					*CONCEPTS*													
+	181		huiputus	huiputtaa			Transitive	HEAD:Noun + Case:Partitive				He huiputtivat minua.	He yrittivät huiputtaa minua.					
+					*CONCEPTS*													
+	182		huiputus	huiputtaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive			Jussi huiputti häntä liikeasioissa.	Häntä huiputettiin liikeasioissa.			LARI: first and second huiputtaa could probably be together (with weak Iness)?		
+					*CONCEPTS*													
+	183		huiputus	huiputtaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän huiputti minua lainaamaan pankkikorttini hänelle.	Hän yritti huiputtaa minua lainaamaan pankkikorttini hänelle.					
+					*CONCEPTS*													
+	184		huiputus	huiputtaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Ablative			Hän huiputti omaisuuden Sarahilta.						
+					*CONCEPTS*													
+	185			hukata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hukkasin avaimen metsään tai pihalle.				(=hukata / jättää / unohtaa)		
+					*CONCEPTS*													
+	186			hukkua			Intransitive	—		HEAD:Noun + Case:Illative		Mies hukkui myrskyssä mereen.	hukkua heikkoihin jäihin					
+					*CONCEPTS*													
+	187			huokaista			Intransitive	—	HEAD:Noun + Case:Elative			Huokaisin onnesta. // Hän huokaisi helpotuksesta.						
+					*CONCEPTS*													
+	188	3.7		huolehtia			Intransitive	—	HEAD:Noun + Case:Elative			Huolehdimme hänestä hyvin. // Voin huolehtia asiasta - sitä väkeä pitää aina hoputtaa.						
+					*CONCEPTS*													
+	189			huolestua			Intransitive	—	HEAD:Noun + Case:Elative			Huolestutte aina joka asiasta.						
+					*CONCEPTS*													
+	190			huolestuttaa			Transitive	HEAD:Noun + Case:Partitive				Jokin asia huolestuttaa häntä.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	191			huolestuttaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Häntä huolestutti lähteä sairaalaan.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	192			huomata			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Äiti huomasi reiän sukassa.				huomasin virheen tekstissä? huomasin tekstissä virheen?huomaan hänen kertomuksessaan virheen?		
+					*CONCEPTS*													
+	193			huomata			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Huomasin ostaa maitoa.						
+					*CONCEPTS*													
+	194		huomautus	huomauttaa			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Opettaja huomautti asiasta oppilaille.	Opettaja huomautti minulle asiasta monta kertaa.					
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	195		huononnus	huonontaa			Transitive	HEAD:Noun + Case:Partitive				Unenpuute voi huonontaa terveyttäsi	Pankki on viime aikoina huonontanut palvelua.					
+					*CONCEPTS*													
+	196		huvitus	huvittaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua huvittaa lähteä teatteriin.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	197		hylkäys	hylätä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive			Opettaja hylkäsi oppilaan tentissä.	Opiskelija hylättiin tentissä.					
+					*CONCEPTS*													
+	198		hymy	hymyillä			Intransitive	—		HEAD:Noun + Case:Allative		Tarjoilija hymyili Liisalle.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	203		hyväily	hyväillä			Transitive	HEAD:Noun + Case:Partitive				Hän hyväili lasta.						
+					*CONCEPTS*													
+	204			hyväksyä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Hyväksyimme Eevan puheenjohtajaksi.						
+					*CONCEPTS*													
+	205			hyväksyä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Opettaja hyväksyi minut kurssille.						
+					*CONCEPTS*													
+	199		hyökkäys	hyökätä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Poliisit hyökkäsivät taloon sisälle.	Saksa hyökkäsi Puolaan syyskuussa 1939					
+					*CONCEPTS*													
+	200		hyökkäys	hyökätä			Intransitive	—		HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive		Kaikki hyökkäsivät häntä vastaan kokouksessa.						
+					*CONCEPTS*													
+	201		hyökkäys	hyökätä			Intransitive	—		HEAD:PostPosition + Surface:kimppuun + Gov_Case:Genitive		tiikeri hyökkäsi metsästäjän kimppuun						
+					*CONCEPTS*													
+	202		hyöty	hyötyä			Intransitive	—	HEAD:Noun + Case:Elative			Tästä hyötyy koko maa.						
+					*CONCEPTS*													
+	98			häipyä			Intransitive	—		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Karhu häipyi metsään.						
+					*CONCEPTS*													
+	99			häipyä			Intransitive	—		HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Varas häipyi rikospaikalta.						
+					*CONCEPTS*													
+	100			häiriintyä			Intransitive	—	HEAD:Noun + Case:Elative			Hän häiriintyy naapurin melusta.				!=häiriytyä		
+					*CONCEPTS*													
+	101			häiriintyä			Intransitive	—		HEAD:PostPosition + Base:vuoksi + Gov_Case:Genitive		rauha häiriintyi äkillisen ammuskelun vuoksi						
+					*CONCEPTS*													
+	102			häiritä			Transitive	HEAD:Noun + Case:Partitive				Hän häiritsi minua koko ajan.						
+					*CONCEPTS*													
+	121			hämmästellä			Transitive	HEAD:Noun + Case:Partitive				Hän hämmästeli bensiinin hintaa.				(= hämmästellä / ihmetellä)		
+					*CONCEPTS*													
+	123			hämmästyttää			Transitive	HEAD:Noun + Case:Partitive				Minua hämmästyttää Villen käytös.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	122		hämmästys	hämmästyä			Intransitive	—	HEAD:Noun + Case:Elative			Hämmästyin asiasta paljon.						
+					*CONCEPTS*													
+	129		härnäys	härnätä			Transitive	HEAD:Noun + Case:Partitive		HEAD:PostPosition + Base:takia + Gov_Case:Genitive		Lapset härnäävät naapurin koiraa.	härnäsimme opettajaa hänen puhetapansa takia					
+					*CONCEPTS*													
+	132			hätkähdyttää			Transitive	HEAD:Noun + Case:Partitive				Uutinen hätkähdytti minua.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	133		hätkähdys	hätkähtää			Transitive	HEAD:Noun + Case:Partitive				Hän hätkähti varjoa pimeässä.						
+					*CONCEPTS*													
+	142			hävettää			Transitive	HEAD:Noun + Case:Partitive				Hänen huono käytöksensä hävetti minua.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	143			hävettää			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua hävettää mennä pyytämään anteeksi.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	140		häpeä	hävetä			Transitive	HEAD:Noun + Case:Partitive				Häpeän isoa nenääni.						
+					*CONCEPTS*													
+	141			hävetä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Häpesin mennä sinne uudelleen.						
+					*CONCEPTS*													
+	144		häviö	hävitä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive	HEAD:Noun + Case:Allative		Hävisin rahat.						
+					*CONCEPTS*													
+	145		häviö	hävitä		MUUTOS?	Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Varas hävisi metsään.  //  Ilmapallo hävisi taivaalle.						
+					*CONCEPTS*													
+	146		häviö	hävitä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Rahat hävisivät kassasta. // Asiakkaat hävisivät terasseilta.						
+					*CONCEPTS*													
+	206		ihailu	ihailla			Transitive	HEAD:Noun + Case:Partitive				Ihailen häntä.						
+					*CONCEPTS*													
+	207	2.7	ihastus	ihastua			Intransitive	—	HEAD:Noun + Case:Illative			Ihastuin Liisaan jo koulussa.						
+					*CONCEPTS*													
+	208			ihmetellä			Transitive	HEAD:Noun + Case:Partitive				Ihmettelen asiaa kovasti.				(= hämmästellä / ihmetellä)		
+					*CONCEPTS*													
+	209			ikävöidä			Transitive	HEAD:Noun + Case:Partitive				Ikävöin sinua.						
+					*CONCEPTS*													
+	210			ikävöidä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän ikävöi kotiin // Hän ikävöi talleille						
+					*CONCEPTS*													
+	211			ilahduttaa			Transitive	HEAD:Noun + Case:Partitive				Hän ilahdutti minua kauniilla ruusulla.						
+					*CONCEPTS*													
+	212			ilahtua			Intransitive	—	HEAD:Noun + Case:Elative			Ilahduin ruususta kovasti.						
+					*CONCEPTS*													
+	213			ilmestyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Mies ilmestyi yhtäkkiä huoneeseen.  //  Taivaalle ilmestyi tähti.						
+					*CONCEPTS*													
+	214			ilmoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Minä ilmoitan asian radiossa.						
+					*CONCEPTS*													
+	215			ilmoittaa		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Minä ilmoitan asian heille.						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	216			ilmoittaa			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Minä ilmoitan asiasta radiossa.						
+					*CONCEPTS*													
+	217			ilmoittaa			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Minä ilmoitan asiasta heille.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	218		ilo	iloita			Intransitive	—	HEAD:Noun + Case:Elative			Poika iloitsi uudesta polkupyörästä.						
+					*CONCEPTS*													
+	219			ilostua			Intransitive	—	HEAD:Noun + Case:Elative			Ilostuin äitini kortista kovasti.						
+					*CONCEPTS*													
+	220			imarrella			Transitive	HEAD:Noun + Case:Partitive				Kauniit sanat imartelivat häntä.						
+					*CONCEPTS*													
+	225			imeytyä			Intransitive	—	HEAD:Noun + Case:Illative			Voide imeytyy ihoon.						
+					*CONCEPTS*													
+	221			imeä			Transitive	HEAD:Noun + Case:Partitive				Lapsi imee tuttia.						
+					*CONCEPTS*													
+	222			imeä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Vauva imee maitoa tuttipullosta.						
+					*CONCEPTS*													
+	223			imeä			Transitive	HEAD:Noun + Case:Partitive		Surface:itseensä		Hän imi itseensä kesän kauneutta.						
+					*CONCEPTS*													
+	224			imeä			Transitive	HEAD:Noun + Case:Objective				Yleisö imi hänen jokaisen sanansa.						
+					*CONCEPTS*													
+	226			inhota		(+minen)	Transitive	HEAD:Noun + Case:Partitive				Inhoan käärmeitä. // Hän inhoaa siivoamista.						
+					*CONCEPTS*													
+	228			inhottaa			Transitive	HEAD:Noun + Case:Partitive				Käärmeet inhottavat minua.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	229			inhottaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua inhottaa mennä sinne.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	230			innostaa			Transitive	HEAD:Noun + Case:Partitive				Isoäiti innosti minua aina.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	231			innostaa			Transitive	! HEAD:Noun + Case:Partitive	! POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Opettaja innosti minua opiskelemaan ahkerasti.						
+					*CONCEPTS*													
+	232	4.8		innostua			Intransitive	—	HEAD:Noun + Case:Elative			Innostuimme asiasta.						
+					*CONCEPTS*													
+	233			innostua			Intransitive	—	HEAD:Noun + Case:Illative			Innostuin urheiluun jo lapsena.						
+					*CONCEPTS*													
+	234			innostua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Innostuin ostamaan liian monta kirjaa.						
+					*CONCEPTS*													
+	235			investoida			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän investoi rahat osakkeisiin.						
+					*CONCEPTS*													
+	236			investoida			Intransitive	—	HEAD:Noun + Case:Illative			Hän investoi osakkeisiin.						
+					*CONCEPTS*													
+	237			irrota			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Takista irtosi nappi.	Häneltä ei irronnut sanaakaan.					
+					*CONCEPTS*													
+	238			irrottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Hän irrotti seinältä mainoksen.						
+					*CONCEPTS*													
+	239		isku	iskeä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän iski naulan seinään.						
+					*CONCEPTS*													
+	240			istua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Vaari istui nojatuolissa // Äiti istui verannalla						
+					*CONCEPTS*													
+	241			istua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän istui sohvalle // Hän istui pöytään 						
+					*CONCEPTS*													
+	242			istua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Inessive			Istuin kirjastossa lukemassa koko päivän.						
+					*CONCEPTS*													
+	243			istuttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Nainen istutti kukkia pihaan. // Nainen istutti vihanneksia kasvimaalle.						
+					*CONCEPTS*													
+	244			istuutua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Nainen istuutui paikalleen. // Nainen istuutui tuoliin.						
+					*CONCEPTS*													
+	247			itkettää			Transitive	HEAD:Noun + Case:Partitive				Minua itkettää tämä filmi.						
+					*CONCEPTS*													
+	245			itkeä			Transitive	HEAD:Noun + Case:Partitive				Hän itki kuollutta koiraa.						
+					*CONCEPTS*													
+	246			itkeä			Intransitive	—	HEAD:Noun + Case:Elative			Hän itki ilosta.						
+					*CONCEPTS*													
+	253			jakaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun-ONLY + Case:Translative			Jaoin oppilaat kahteen ryhmään.	Oppilaat jakautuivat kahdeksi ryhmäksi.					
+					*CONCEPTS*													
+	254			jakaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Opettaja jakaa paperit oppilaille.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	255			jakautua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun-ONLY + Case:Translative			Oppilaat jakautuivat kahteen ryhmään.				!=jakaantua		
+					*CONCEPTS*													
+	256			jaksaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Jaksan kantaa tämän painavan kassin.						
+					*CONCEPTS*													
+	258			jankuttaa			Transitive	HEAD:Noun + Case:Partitive				Hän jankuttaa samaa asiaa koko ajan.						
+					*CONCEPTS*													
+	259			jankuttaa			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Hän jankuttaa minulle joka asiasta.				(=jankuttaa, nalkuttaa)		
+					*CONCEPTS*													
+	262			janottaa			Transitive	HEAD:Noun + Case:Partitive				Minua janottaa.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	267			jatkaa		(+minen)	Transitive	HEAD:Noun + Case:Partitive				Jatkamme kurssia ensi vuonna. // Jatkan opiskelemista.						
+					*CONCEPTS*													
+	269			jatkua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Matka jatkuu Hämeenlinnaan ja Tampereelle.						
+					*CONCEPTS*													
+	270			jatkua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Polku jatkuu metsän laidalta.						
+					*CONCEPTS*													
+	275			johdattaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Opas johdatti ryhmän museoon.						
+					*CONCEPTS*													
+	276	4.2		johtaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Lain rikkominen johtaa rangaistukseen. //  Hän johtaa orkesteria. // Hän johti meidät asunnolleen.						
+					*CONCEPTS*													
+	277			johtua			Intransitive	—	HEAD:Noun + Case:Elative			Tämä johtuu ilmasta.						
+					*CONCEPTS*													
+	278			jonottaa			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Jonotin vuoroani kassalla monta tuntia. // Jonotin kärsivällisesti vuoroani lippujonossa.						
+					*CONCEPTS*													
+	279			jonottaa			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Jonotin lippua konserttiin.						
+					*CONCEPTS*													
+	280			jonottaa			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Jonotin elokuviin kaksi tuntia.						
+					*CONCEPTS*													
+	281			joutaa			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Joudan tulemaan teille illalla.				(=joutaa, ehtiä)		
+					*CONCEPTS*													
+	282			joutaa			Intransitive	—	HEAD:Noun + Case:Allative			hän joutaa jo eläkkeelle						
+					*CONCEPTS*													
+	284			joutua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Jouduin kotiarestiin.						
+					*CONCEPTS*													
+	285	3.6		joutua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Joudun lähtemään kotiin pian.  //  Äiti joutui jäämään ylitöihin						
+					*CONCEPTS*													
+	286			juhlia			Transitive	HEAD:Noun + Case:Partitive				He juhlivat voittajaa Kaivopuistossa.						
+					*CONCEPTS*													
+	287			julistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Presidentti julisti Suomen itsenäiseksi vuonna 1917.	Suomi julistettiin itsenäiseksi vuonna 1917.					
+					*CONCEPTS*													
+	288			julistaa			Transitive	HEAD:Noun + Case:Objective				Kenraalit julistivat hätätilan						
+					*CONCEPTS*													
+	289			julkaista			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			lehti julkaisi uutisen etusivullaan						
+					*CONCEPTS*													
+	290			jutella			Intransitive	—	HEAD:Noun + Case:Elative			Juttelemme tästä asiasta.						
+					*CONCEPTS*													
+	291			jututtaa			Transitive	HEAD:Noun + Case:Partitive				Jututin häntä koko bussimatkan.						
+					*CONCEPTS*													
+	292			juuttua			Intransitive	—	HEAD:Noun + Case:Illative			Laiva juuttui jäihin.						
+					*CONCEPTS*													
+	257			jäljitellä			Transitive	HEAD:Noun + Case:Partitive				Hän jäljittelee aina isää.						
+					*CONCEPTS*													
+	260			jännittää			Transitive	HEAD:Noun + Case:Partitive				Minua jännittää aina lentokoneessa.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	261			jännittää			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Häntä jännittää mennä sinne uudelleen.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	264			järjestellä			Transitive	HEAD:Noun + Case:Partitive				Hän järjestelee tätä asiaa.						
+					*CONCEPTS*													
+	263			järjestää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Poliisi järjesti epäillyt jonoon.						
+					*CONCEPTS*													
+	266			järkyttyä			Intransitive	—	HEAD:Noun + Case:Elative			Järkytyin onnettomuudesta.						
+					*CONCEPTS*													
+	265			järkyttää			Transitive	HEAD:Noun + Case:Partitive				Asia järkytti minua.						
+					*CONCEPTS*													
+	271			jättää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Isä jätti lapsensa päiväkotiin.				(=hukata / jättää / unohtaa)		
+					*CONCEPTS*													
+	272			jättää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Jätän vaikean työn viimeiseksi.						
+					*CONCEPTS*													
+	273			jättää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Jätän sinut tekemään töitä.						
+					*CONCEPTS*													
+	274			jättää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Abessive			Jätin työn tekemättä.						
+					*CONCEPTS*													
+	248	2.1		jäädä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Jäimme hotellille						
+					*CONCEPTS*													
+	249	4.8		jäädä			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Jään koko viikonlopuksi. // hän jäi taas leskeksi	hän jäi toistamiseen leskeksi					
+					*CONCEPTS*													
+	250			jäädä			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Jäin metrosta jo edellisellä pysäkillä. // Jäin junasta väärässä kaupungissa. 						
+					*CONCEPTS*													
+	251			jäädä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			He jäivät pihalle leikkimään.						
+					*CONCEPTS*													
+	252			jäädä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Abessive			Työ jäi tekemättä.						
+					*CONCEPTS*													
+	297			kaataa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Tyttö kaatoi mehua kannusta.						
+					*CONCEPTS*													
+	298			kaataa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Tarjoilija kaatoi kahvin kuppiin. // Tarjoilija kaatoi kahvia asiakkaille.						
+					*CONCEPTS*													
+	299			kaatua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Mopoilija kaatui ojaan.						
+					*CONCEPTS*													
+	300			kaatua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Laiva kaatui myrskyssä. // Laiva kaatui merellä.						
+					*CONCEPTS*													
+	301			kadehtia			Transitive	HEAD:Noun + Case:Partitive				Hän kadehtii sinua.						
+					*CONCEPTS*													
+	302			kadehtia			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Kadehdin häntä lottovoitosta.						
+					*CONCEPTS*													
+	303			kadota			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Karhu katosi metsään.						
+					*CONCEPTS*													
+	304			kadota			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Avaimet katosivat laukustani.						
+					*CONCEPTS*													
+	305			kadottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Liisa kadotti lompakon bussiin.						
+					*CONCEPTS*													
+	306			kadottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Kadotin mieheni alennusmyynnissä.						
+					*CONCEPTS*													
+	307			kaduttaa			Transitive	HEAD:Noun + Case:Partitive				Minua kaduttaa se, että menin sinne.						
+					*CONCEPTS*													
+	308			kaipailla			Transitive	HEAD:Noun + Case:Partitive				Hän on kaipaillut sinua jo monta tuntia.				(= kaipailla, kysellä, etsiä)		
+					*CONCEPTS*													
+	309			kaivata			Transitive	HEAD:Noun + Case:Partitive				Kaipaan sinua.						
+					*CONCEPTS*													
+	310			kaivata			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kaipaan kotiin. // Kaipaan aurinkorannalle.						
+					*CONCEPTS*													
+	311			kallistaa			Transitive	HEAD:Noun + Case:Partitive				Potilas kallisti päätään, kun lääkäri tutki korvaa.						
+					*CONCEPTS*													
+	312			kannattaa			Transitive	HEAD:Noun + Case:Partitive				Kannatan ehdotusta.						
+					*CONCEPTS*													
+	314			kannella			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Tästä asiasta ei saa kannella isälle.				(= kertoa)		
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	315			kannustaa			Transitive	HEAD:Noun + Case:Partitive				Professori kannusti opiskelijaa.						
+					*CONCEPTS*													
+	316			kannustaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hyvä todistus kannusti häntä jatkamaan opintojaan.						
+					*CONCEPTS*													
+	317		karkaus	karata			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Kissa karkasi tytöltä. // Roisto karkasi vankilasta vapauteen.				Hän karkasi kotoa? kotoa??		
+					*CONCEPTS*													
+	319		karkote	karkottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Vakoojat karkotettiin maasta takaisin kotimaihinsa						
+					*CONCEPTS*													
+	320			karsia			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Karsin kuusesta oksat.						
+					*CONCEPTS*													
+	323			karttaa			Transitive	HEAD:Noun + Case:Partitive				He karttavat työntekoa.						
+					*CONCEPTS*													
+	324			karttua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Pankkitilille karttui paljon rahaa.						
+					*CONCEPTS*													
+	325		kasa	kasata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Tyttö kasasi laatikot kaapin nurkkaan						
+					*CONCEPTS*													
+	330		kaste	kastaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Kastan leivän maitoon.	Kastan usein näkkileipää teehen.					
+					*CONCEPTS*													
+	331			kastaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Pappi kastoi lapsen Villeksi.						
+					*CONCEPTS*													
+	332		kasvu	kasvaa			Intransitive	—	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Tukka kasvoi nopeasti pitkäksi.						
+					*CONCEPTS*													
+	333			kasvaa			Intransitive	—	HEAD:Noun + Case:Elative			Pienestä siemenestä kasvoi korkea puu.						
+					*CONCEPTS*													
+	335		katselu	katsella			Transitive	HEAD:Noun + Case:Partitive				Katselin televisiota koko illan.						
+					*CONCEPTS*													
+	336		katse	katsoa			Transitive	HEAD:Noun + Case:Partitive				Katsoin tätä taulua.						
+					*CONCEPTS*													
+	337			katsoa			Intransitive	—	HEAD:Noun + Case:Illative			Hän katsoi veteen.						
+					*CONCEPTS*													
+	338			katsoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Katsoin ilotulitusta parvekkeelta. // Tyttö katsoi meitä ikkunasta.						
+					*CONCEPTS*													
+	339	4.8		katua			Transitive	HEAD:Noun + Case:Partitive				Kadun asiaa kovasti.					regret	
+					*CONCEPTS*													
+	340			katua			Intransitive	—	että-lause			Kadun, että menin sinne.						
+					*CONCEPTS*													
+	341			kauhistella			Transitive	HEAD:Noun + Case:Partitive				Asiakas kauhisteli uutta hintaa.						
+					*CONCEPTS*													
+	342			kauhistua			Transitive	HEAD:Noun + Case:Partitive				Kauhistuin sitä, että minun täytyy mennä sinne yksin.						
+					*CONCEPTS*													
+	343			kauhistua			Intransitive	—	HEAD:Noun + Case:Elative			He kauhistuivat uutisesta.						
+					*CONCEPTS*													
+	344			kauhistuttaa			Transitive	HEAD:Noun + Case:Partitive				Minua kauhistutti tämä ajatus.						
+					*CONCEPTS*													
+	345			kauhistuttaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Häntä kauhistutti kertoa totuus.						
+					*CONCEPTS*													
+	346			kauhistuttaa			Transitive	HEAD:Noun + Case:Partitive	että-lause			Häntä kauhistutti, että hän oli kadottanut passinsa.						
+					*CONCEPTS*													
+	352			kehdata			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Kehtaan sanoa sen hänelle.						
+					*CONCEPTS*													
+	354			kehittyä			Intransitive	—	HEAD:Noun + Case:Elative			Pojasta kehittyi komea mies.						
+					*CONCEPTS*													
+	355			kehittyä			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Hän kehittyi hyväksi taiteilijaksi.						
+					*CONCEPTS*													
+	353			kehittää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Valokuvaamo kehitti kuvasta suurennoksen.						
+					*CONCEPTS*													
+	356			kehottaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Kehotin Ninaa hakemaan stipendiä.						
+					*CONCEPTS*													
+	357			kehua			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Elative		Isä kehui poikaa hyvästä työstä.						
+					*CONCEPTS*													
+	358			kehua			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Hän kehui näytelmää hyväksi.						
+					*CONCEPTS*													
+	359			keinuttaa			Transitive	HEAD:Noun + Case:Partitive				Tuuli keinutti laivaa.						
+					*CONCEPTS*													
+	360			kellua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Kelluin vedessä kauan  //  Keiton pinnalla kellui rasvaa.						
+					*CONCEPTS*													
+	361	4.8		kelvata			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Tämä ruoka ei kelpaa kissalleni						
+					*CONCEPTS*													
+	366			keritä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative / POS:Verb + INF_FORM:Inf-Ma + Case:Illative										
+					*CONCEPTS*													
+	367			kerskailla		KEINO/VÄLINE 	Intransitive	—	HEAD:Noun + Case:Adessive			Hän kerskailee rahoillaan.				(= kerskailla, ylpeillä, leuhkia)		
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	368			kertoa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Allative		Hän kertoi meille salaisuuden Liisasta.				Larin korjaus		
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	369			kertoa			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative	että-lause	Hän kertoo meille Liisasta.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	370			kertyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kassaan kertyi rahaa. Taivaalle kertyi pilviä.						
+					*CONCEPTS*													
+	364			kerätä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Mies keräsi omenoita maasta. // Tyttö keräsi mielipiteitä uudistuksesta.						
+					*CONCEPTS*													
+	365			kerätä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Isä keräsi pyykit koriin. //  Lintuemo keräsi ruokaa poikasilleen.						
+					*CONCEPTS*													
+	362			kerääntyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Pöly kerääntyi pöydän pinnalle. // Ihmiset kerääntyivät väestönsuojaan.						
+					*CONCEPTS*													
+	363			kerääntyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Urheilijat kerääntyivät stadionille harjoittelemaan.						
+					*CONCEPTS*													
+	372			keskittyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän osaa keskittyä tehtäviin hyvin.	Talousasiat ovat keskittyneet hallitukselle.					
+					*CONCEPTS*													
+	373			keskittyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Keskityn kävelemään.						
+					*CONCEPTS*													
+	371			keskittää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Olemme keskittäneet ostoksemme yhteen tavarataloon.	Liikennevalvonta on keskitetty poliiseille.					
+					*CONCEPTS*													
+	374			keskustella			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:PostPosition + Base:kanssa + Gov_Case:Genitive		Hän keskusteli asiasta koululla opettajien kanssa	Haluaisimme keskustella tästä asiasta.					
+					*CONCEPTS*													
+	375			keskustella			Transitive	HEAD:Noun + Case:Objective		HEAD:PostPosition + Base:kanssa + Gov_Case:Genitive		Keskustelemme asiat selviksi.						
+					*CONCEPTS*													
+	376			kiduttaa			Transitive	HEAD:Noun + Case:Partitive				Viholliset kiduttivat vankia sodan aikana.						
+					*CONCEPTS*													
+	379			kieltäytyä			Intransitive	—	HEAD:Noun + Case:Elative			Hän kieltäytyi tarjouksesta.						
+					*CONCEPTS*													
+	380			kieltäytyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Kieltäydyn syömästä mämmiä.						
+					*CONCEPTS*													
+	377			kieltää			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Kielsin häntä lähtemästä matkalle.						
+					*CONCEPTS*													
+	378			kieltää		ESTE	Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Ablative		Lääkäri kielsi minulta tupakanpolton.	laki kieltää tupakan mainostamisen					
+					*CONCEPTS*					syntax-ablative-este								
+	381			kiidättää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Ambulanssi kiidätti hänet sairaalaan.  //  Bussi kiidätti matkustajat lentokentälle.						
+					*CONCEPTS*													
+	382			kiihottaa			Transitive	HEAD:Noun + Case:Partitive				Hyvä kirja kiihottaa mielikuvitusta.						
+					*CONCEPTS*													
+	383			kiihtyä			Intransitive	—	HEAD:Noun + Case:Elative			Kiihdyn usein ihan turhasta.						
+					*CONCEPTS*													
+	384			kiihtyä		REAKTIO?	Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Hän kiihtyi minulle jostakin.						
+					*CONCEPTS*													
+	385	4.8		kiinnittää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Kiinnitimme veneen laituriin.						
+					*CONCEPTS*													
+	385.1	4.8		kiinnittyä			Intransitive	—	HEAD:Noun + Case:Illative			Hänen huomionsa kiinnittyi muualle.						
+					*CONCEPTS*													
+	386			kiinnostaa			Transitive	HEAD:Noun + Case:Partitive				Asia kiinnostaa minua.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	387			kiinnostaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua kiinnostaa lähteä teatteriin.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	388			kiinnostua			Intransitive	—	HEAD:Noun + Case:Elative			Hän kiinnostui heti asiasta.						
+					*CONCEPTS*													
+	389			kiinnostua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän kiinnostui tutkimaan tähtiä.						
+					*CONCEPTS*													
+	390			kiintyä			Intransitive	—	HEAD:Noun + Case:Illative			Kiinnyimme kissaan heti.						
+					*CONCEPTS*													
+	391			kiistellä			Intransitive	—	HEAD:Noun + Case:Elative			Kiistelemme kaikista asioista.				(= kinastella)		
+					*CONCEPTS*													
+	392			kiittää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Kiitän teitä kaikesta.						
+					*CONCEPTS*													
+	393			kiivetä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kana kiipesi orrelle. // Lapsi kiipesi syliin.						
+					*CONCEPTS*													
+	394			kiljua			Intransitive	—	HEAD:Noun + Case:Elative			Lapset kiljuivat riemusta.					shriek	
+					*CONCEPTS*													
+	395			kilpailla			Intransitive	—	HEAD:Noun + Case:Elative			Kaikki kilpailivat ensimmäisestä palkinnosta.						
+					*CONCEPTS*													
+	396			kinastella			Intransitive	—	HEAD:Noun + Case:Elative			Kinastelemme hinnasta.						
+					*CONCEPTS*													
+	397			kirjoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative	HEAD:Noun + Case:Illative 	lääkäri kirjoitti potilaalle reseptin						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	399			kirkua			Intransitive	—	HEAD:Noun + Case:Elative			Kiruin pelosta, kun näin käärmeen.						
+					*CONCEPTS*													
+	400			kiukutella			Intransitive	—	HEAD:Noun + Case:Elative			Hän kiukuttelee rahasta.						
+					*CONCEPTS*													
+	401			kiukuttaa			Transitive	HEAD:Noun + Case:Partitive				Tämä asia kiukuttaa minua.						
+					*CONCEPTS*													
+	402			kiusata			Transitive	HEAD:Noun + Case:Partitive				He kiusaavat häntä aina.						
+					*CONCEPTS*													
+	403			koettaa			Transitive	HEAD:Noun + Case:Partitive				Minä kokeilin pojan otsaa.	Koeta tuota patteria, se on ihan kylmä!			Larin korjaus		
+					*CONCEPTS*													
+	404			koettaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Koeta tehdä jotakin!				(= yrittää)		
+					*CONCEPTS*													
+	405			kohdata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Prinsessa kohtasi prinssin unessaan. // Opiskelija kohtasi kaverinsa luennoilla.						
+					*CONCEPTS*													
+	406			kohdella			Transitive	HEAD:Noun + Case:Partitive				Kauppias kohtelee asiakasta hyvin.						
+					*CONCEPTS*													
+	408			kohdistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			James kohdisti kameran häneen						
+					*CONCEPTS*													
+	408			kohdistaa		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			James kohdisti kirjeen hänelle				???		
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	409			kohdistua			Intransitive	—	HEAD:Noun + Case:Illative			Huomio kohdistui heti presidenttiin.						
+					*CONCEPTS*													
+	407			kohdentua			Intransitive	—	HEAD:Noun + Case:Illative			Huomio kohdentui pääministeriin.						
+					*CONCEPTS*													
+	946			suuntautua			Intransitive	—	HEAD:Noun + Case:Illative			Kiinnostus suuntautui hänen tekoihinsa.						
+					*CONCEPTS*													
+	410	2.2		kokeilla			Transitive	HEAD:Noun + Case:Partitive				Kokeilimme uutta metodia.  //  Haluaisin kokeilla uutta reseptiä						
+					*CONCEPTS*													
+	411			kokoontua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kokoonnuimme saliin. // Väkijoukko kokoontui eduskuntatalolle.						
+					*CONCEPTS*													
+	412	4.8		kokoontua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			He kokoontuivat olohuoneeseen katsomaan televisiota.						
+					*CONCEPTS*													
+	413			komentaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Rehtori komensi kaikki jonoon.						
+					*CONCEPTS*													
+	414			komentaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Äiti komensi lapset nukkumaan.						
+					*CONCEPTS*													
+	415			kommentoida			Transitive	HEAD:Noun + Case:Partitive				Helsingin Sanomat kommentoi asiaa etusivulla.						
+					*CONCEPTS*													
+	416			kompastua			Intransitive	—	HEAD:Noun + Case:Illative			Hän kompastui kiveen.						
+					*CONCEPTS*													
+	417			kompastua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Kompastuin portaissa. // Kompastuin kadulla.						
+					*CONCEPTS*													
+	418			koostua			Intransitive	—	HEAD:Noun + Case:Elative			Lause koostuu sanoista.						
+					*CONCEPTS*													
+	419			koota			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Valmentaja kokosi luistelijat muodostelmaan. // Valmentaja kokosi pelaajat kentälle. 						
+					*CONCEPTS*													
+	420			koota			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Kokki kokosi aterian tähteistä. 						
+					*CONCEPTS*													
+	421			koputtaa			Transitive	HEAD:Noun + Case:Partitive				Hän koputtaa puuta kolme kertaa.						
+					*CONCEPTS*													
+	422			koputtaa			Intransitive	—	HEAD:Noun + Case:Illative			Joulupukki koputti oveen.						
+					*CONCEPTS*													
+	423			koristella			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Adessive			Koristelimme kuusen kynttilöillä.						
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	424			korostaa			Transitive	HEAD:Noun + Case:Partitive				Hän korosti asiaa vielä kerran.						
+					*CONCEPTS*													
+	425			korvata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Adessive			Saat korvata voin margariinilla.						
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	426			kosia			Transitive	HEAD:Noun + Case:Partitive				Pekka kosi Liisaa.						
+					*CONCEPTS*													
+	427	3.1		koskea			Transitive	HEAD:Noun + Case:Partitive				Kysymys koski budjettia.						
+					*CONCEPTS*													
+	428			koskea			Intransitive	—	HEAD:Noun + Case:Illative			Esineisiin ei saa koskea!						
+					*CONCEPTS*													
+	429			koskettaa			Transitive	HEAD:Noun + Case:Partitive				Asia koskettaa meitä kaikkia.						
+					*CONCEPTS*													
+	430			kostaa		REAKTIO?	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Minä kostan tämän sinulle	Kostan vielä sinulle!					
+					*CONCEPTS*													
+	431			kotiutua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Mummo kotiutui vanhainkotiin						
+					*CONCEPTS*													
+	432			kotiutua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Mummo kotiutui sairaalasta						
+					*CONCEPTS*													
+	433			kouluttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Yliopisto kouluttaa moniin ammatteihin.	Mihin ammattiin tämä oppilaitos kouluttaa?					
+					*CONCEPTS*													
+	434			kouluttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Isä koulutti lapsensa lääkäriksi.						
+					*CONCEPTS*													
+	435			kouluttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Koulutimme tytöstä maisterin.						
+					*CONCEPTS*													
+	436			kritisoida			Transitive	HEAD:Noun + Case:Partitive				Lehdet kritisoivat hallitusohjelmaa.	Lehdet ovat kritisoineet häntä.					
+					*CONCEPTS*													
+	437			kruunata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Kansa kruunasi hänet kuninkaaksi.						
+					*CONCEPTS*													
+	438			kuiskata		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Hän kuiskasi minulle salaisuuden.						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	439			kulua			Intransitive	—	HEAD:Noun + Case:Illative			Ruokaan kuluu liian paljon rahaa.						
+					*CONCEPTS*													
+	440			kulua			Intransitive	—	HEAD:Noun + Case:Elative			Ullan syntymäpäivästä on kulunut jo 3 viikkoa.						
+					*CONCEPTS*													
+	441	3.6		kuluttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän kuluttaa kaikki rahansa vaatteisiin.	Kuluttaako auto paljon bensaa?					
+					*CONCEPTS*													
+	442			kummastella			Transitive	HEAD:Noun + Case:Partitive				Kaikki kummastelivat uutta kampaustani.						
+					*CONCEPTS*													
+	443			kummastua			Intransitive	—	HEAD:Noun + Case:Elative			Hän kummastui kysymyksestä kovasti.						
+					*CONCEPTS*													
+	444			kunnioittaa			Transitive	HEAD:Noun + Case:Partitive				Kunnioitamme häntä.						
+					*CONCEPTS*													
+	445			kunnioittaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Essive			Kunnioitan häntä äitinä suuresti.						
+					*CONCEPTS*													
+	446			kuolla			Intransitive	—	HEAD:Noun + Case:Illative			Hän kuoli syöpään.						
+					*CONCEPTS*													
+	447			kurkistaa			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Poika kurkisti huoneestaan eteiseen // Poika kurkisti ullakolta katolle						
+					*CONCEPTS*													
+	448			kutittaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Silmiäni kutittaa. // Ei saa kutittaa kainalosta!						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	450		kutsu	kutsua			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kutsuin hänet teatteriin.	Haluaisin kutsua sinut teatteriin.					
+					*CONCEPTS*													
+	451			kutsua			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Kutsuimme Elisan meille vieraaksi.						
+					*CONCEPTS*													
+	452			kutsua			Transitive	! HEAD:Noun + Case:Partitive	! HEAD:Noun-ONLY + Case:Translative			Kutsun kissaani Misseksi.						
+					*CONCEPTS*													
+	453		kutsu	kutsua			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän kutsui meidät syömään klo 12.						
+					*CONCEPTS*													
+	454			kuulla			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Kuulitko juorun pääministeristä?						
+					*CONCEPTS*													
+	454b			kuulla		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Ablative			Kuulin juorun naapurilta.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	455			kuulla			Transitive	HEAD:Noun + Case:Ablative	että-lause			Kuulin siskolta, että hän on sairastunut.						
+					*CONCEPTS*			Syntax-ablatiivi-lähde										
+	456	2.3		kuulostaa		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / POS:Adjective + Case:Ablative			Se kuulostaa mukavalta.						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	457			kuulua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Nainen kuului yhteisöön. // Sinä kuulut minulle.						
+					*CONCEPTS*													
+	458			kuulua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Häiritsevä ääni kuului radiosta. // Ulkoa kuului melua.						
+					*CONCEPTS*													
+	459			kuulustella			Transitive	HEAD:Noun + Case:Partitive				Poliisi kuulusteli minua koko yön.						
+					*CONCEPTS*													
+	460			kuunnella			Transitive	HEAD:Noun + Case:Partitive				Hän kuuntelee minua.						
+					*CONCEPTS*													
+	461			kuvitella			Transitive	että-lause				Kuvittelin, että täällä olisi ihan erilaista.						
+					*CONCEPTS*													
+	462			kuvitella			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Kuvittelin Suomen ihan erilaiseksi.						
+					*CONCEPTS*													
+	462			kuvailla			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Kuvailin Suomea ihan erilaiseksi.						
+					*CONCEPTS*													
+	463			kyetä			Intransitive	—	HEAD:Noun + Case:Illative			Hän kykenee tähän työhön.						
+					*CONCEPTS*													
+	464			kyetä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän kykenee tekemään sen.						
+					*CONCEPTS*													
+	467			kyllästyttää			Transitive	HEAD:Noun + Case:Partitive				Mikon jutut kyllästyttävät meitä.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	468			kyllästyttää			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua kyllästyttää kuunnella hänen juttujaan.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	465	4.8		kyllästyä			Intransitive	—	HEAD:Noun + Case:Illative			Kyllästyin koulussa matematiikkaan.						
+					*CONCEPTS*													
+	466			kyllästyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Olen kyllästynyt odottamaan.						
+					*CONCEPTS*													
+	469			kysellä		LÄHDE	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			He kyselevät minulta tätä asiaa usein.		???				
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	470			kysyä			Transitive	HEAD:Noun + Case:Partitive				Minä kysyin neuvoa.	Kysy tästä asiasta opettajalta			Lari: Tämä ja seuraava voisivat kai olla ihan hyvin samassakin. Otin jo yhden vastaavan pois, mutta en nyt saa sitä takaisin...		
+					*CONCEPTS*													
+	471			kysyä		LÄHDE	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Kysyin neuvoa lääkäriltä.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	472			kytkeä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän kytki koiran puuhun.						
+					*CONCEPTS*													
+	321			kärsiä			Intransitive	—	HEAD:Noun + Case:Elative			Hän kärsii migreenistä.	kärsiä unettomuudesta					
+					*CONCEPTS*													
+	322			kärsiä			Transitive	HEAD:Noun + Case:Objective	HEAD:PostPosition + Base:takia + Gov_Case:Genitive			Opettajan arvovalta kärsi pahan kolauksen.	Sai kärsiä lastensa takia			??? RY		
+					*CONCEPTS*													
+	326			käsitellä			Transitive	HEAD:Noun + Case:Partitive				Toinen luku käsittelee tärkeimpiä teoreettisia lähestymistapoja.				Oikeus käsitteli asian. (aspekti? in the feedback box) ???		
+					*CONCEPTS*													
+	328			käskeä			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Käskin häntä menemään ulos.				!!! ??? construction ?		
+					*CONCEPTS*													
+	329			käskeä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Käskin hänet kotiin.						
+					*CONCEPTS*													
+	334			kätkeä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän kätki aarteen arkkuun. // Kätkin tavarat mökille.						
+					*CONCEPTS*													
+	334			kätkeytyä			Intransitive	—	HEAD:Noun + Case:Illative			Selvitetään mitä tähän kätkeytyy.						
+					*CONCEPTS*													
+	347			käydä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive / POS:Verb + INF_FORM:Inf-Ma + Case:Inessive			Käyn kaupassa. / Käyn ostamassa jäätelöä.				??? HACK: MERGED noun and infinitive --> into one rule: was causing ambiguity.  Käyn ostamassa jäätelöä.		
+					*CONCEPTS*													
+	349			käydä			Transitive	HEAD:Noun + Case:Partitive				Hän käy koulua.						
+					*CONCEPTS*													
+	350			käyttää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Essive			Käytin sanakirjaa apuna.	Käytän piilolaseja.			?? Käytin sanakirjaa apuna matkoihin.		
+					*CONCEPTS*													
+	351			käyttää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Käytän rahaa matkoihin.						
+					*CONCEPTS*													
+	295			kääntyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Auto kääntyi pihaan autotieltä. // Pyöräilijä kääntyi tielle jalkakäytävältä.						
+					*CONCEPTS*													
+	296			kääntyä			Intransitive	—	HEAD:PostPosition + Base:puoleen + Gov_Case:Genitive			Voitte kääntyä Liisan puoleen tässäkin asiassa.						
+					*CONCEPTS*													
+	293			kääntää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / HEAD:Noun + Case:Illative			Kirjailija käänsi tekstinsä suomeksi. // Kirjailija käänsi huomion itseensä.						
+					*CONCEPTS*													
+	294			kääntää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Illative		Voisin kääntää sen unkarista suomeen.						
+					*CONCEPTS*													
+	478			laajentaa			Transitive	HEAD:Noun + Case:Objective				Alkoholi laajentaa verisuonia						
+					*CONCEPTS*													
+	478			lahjoa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Kalle lahjoi pikkusiskon tiskaamaan puolestaan.						
+					*CONCEPTS*													
+	479			lahjoittaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hyväntekijä lahjoitti omaisuutensa hyväntekeväisyyteen. // Hyväntekijä lahjoitti omaisuutensa kodittomille kissoille.						
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	483			lainata		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Lainaan auton Liisalta.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	484			lainata		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Lainaan auton sinulle.	Lainasimme rahaa hänelle.					
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	485			lainata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Lainasimme auton muuttoon.	Lainasimme rahaa remonttiin.					
+					*CONCEPTS*													
+	486			lajitella			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän lajitteli kirjat kahteen pinoon.						
+					*CONCEPTS*													
+	487			lakata			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			en koskaan lakkaa hämmästelemästä hänen mielipiteitään	Lakkaa huutamasta!			(V + mAAn V + 1inf)		
+					*CONCEPTS*													
+	488			laskea			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Yritys laski jätevedet jokeen. // Mummo laski koiransa pihalle.						
+					*CONCEPTS*													
+	489			laskeutua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kone laskeutui määränpäähänsä ajoissa. // Kone laskeutui lentokentälle.						
+					*CONCEPTS*													
+	490			laskuttaa			Transitive	HEAD:Noun + Case:Partitive				Firma laskuttaa asiakasta.						
+					*CONCEPTS*													
+	491			laskuttaa			Intransitive	—	HEAD:Noun + Case:Elative			Emme laskuta erikseen kotiinkuljetuksesta.						
+					*CONCEPTS*													
+	492			laulaa		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative		HEAD:Noun + Case:Elative	Minä laulan laulun sinulle.	Laula minulle jotakin.  //  minä laulan sinulle laulun rakkaudesta					
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	493			laulaa			Intransitive	—	HEAD:Noun + Case:Elative			Hän laulaa rakkaudesta.						
+					*CONCEPTS*													
+	494			leikata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Leikkasin tukan lyhyeksi.						
+					*CONCEPTS*													
+	495			leikata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän leikkasi haavan sormeensa.						
+					*CONCEPTS*													
+	496			leikkiä			Transitive	HEAD:Noun + Case:Partitive				Pojat leikkivät rosvoa ja poliisia.						
+					*CONCEPTS*													
+	497			leikkiä			Intransitive	—	HEAD:Noun + Case:Adessive			Minna ei leiki enää nukeilla.						
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	498			lelliä			Transitive	HEAD:Noun + Case:Partitive				Mummo lellii lapsenlastaan.						
+					*CONCEPTS*													
+	499			lepuuttaa			Transitive	HEAD:Noun + Case:Partitive				Haluan lepuuttaa jalkojani.						
+					*CONCEPTS*													
+	500			leuhkia			Intransitive	—	HEAD:Noun + Case:Adessive			Hän leuhkii uudella autollaan.						
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	501			leveillä			Intransitive	—	HEAD:Noun + Case:Adessive			Hän leveilee rahoillaan.				(= kerskailla)		
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	504			levittää			Transitive	HEAD:Noun + Case:Partitive				Hän levittää väärää tietoa asiasta.						
+					*CONCEPTS*													
+	505			levittää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän levitti liinan pöydälle.	Levitä aurinkoöljyä selkään.					
+					*CONCEPTS*													
+	502			levitä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Myrkky levisi ympäristöön. // Myrkky levisi laajalle.						
+					*CONCEPTS*													
+	503			levitä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Asutus levisi etelästä pohjoiseen.	Asutus levisi mantereelta toiselle.					
+					*CONCEPTS*													
+	506			lieventää			Transitive	HEAD:Noun + Case:Partitive				Tuomari lievensi rangaistusta.						
+					*CONCEPTS*													
+	507			lievittää			Transitive	HEAD:Noun + Case:Partitive				Aspiriini lievittää päänsärkyä.						
+					*CONCEPTS*													
+	508			liikauttaa			Transitive	HEAD:Noun + Case:Partitive				Asia liikautti minua.						
+					*CONCEPTS*													
+	509			liikutella			Transitive	HEAD:Noun + Case:Partitive				Tuuli liikuttelee puuta.						
+					*CONCEPTS*													
+	510			liikuttaa			Transitive	HEAD:Noun + Case:Partitive				Tapaus liikutti meitä kovasti.						
+					*CONCEPTS*													
+	511			liikuttua			Intransitive	—	HEAD:Noun + Case:Elative			Äiti liikuttui lahjasta.						
+					*CONCEPTS*													
+	512			liimata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Lapsi liimasi lennokkinsa kasaan. // Lapsi liimasi piirustuksensa seinälle.						
+					*CONCEPTS*													
+	513			liioitella			Transitive	HEAD:Noun + Case:Partitive				Liioittelet asiaa.						
+					*CONCEPTS*													
+	515			liittoutua			Intransitive	—	HEAD:PostPosition + Base:kanssa + Gov_Case:Genitive			Maa liittoutui naapurimaan kanssa.						
+					*CONCEPTS*													
+	516			liittoutua			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive			Pojat liittoutuivat tyttöjä vastaan.						
+					*CONCEPTS*													
+	517	3.6		liittyä			Intransitive	—	HEAD:Noun + Case:Illative			Suomi liittyi Euroopan unioniin v. 1995.						
+					*CONCEPTS*													
+	514			liittää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Liitän hakemukseen todistuksen suomen kielen taidostani.						
+					*CONCEPTS*													
+	518			lisätä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän lisäsi nimensä listaan.	Lisään taikinaan sokeria.					
+					*CONCEPTS*													
+	519			lohduttaa			Transitive	HEAD:Noun + Case:Partitive				Äiti lohdutti itkevää lasta.						
+					*CONCEPTS*													
+	520			lopettaa		(+minen)	Transitive	HEAD:Noun + Case:Objective				Hän lopettaa työnsä // Hän lopetti tupakan polttamisen.						
+					*CONCEPTS*													
+	522			loppua			Intransitive	—	HEAD:Noun + Case:Illative			Tämä loppuu nyt tähän.						
+					*CONCEPTS*													
+	523			loppua		LÄHDE	Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Juhlijoilta loppui viini // Pöydät loppuivat ravintolasta kesken.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	524			loukata			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Miehen sanat loukkasivat minua.						
+					*CONCEPTS*													
+	525			loukata			Transitive	HEAD:Noun + Case:Objective				Hän loukkasi päänsä pöydänkulmaan.						
+					*CONCEPTS*													
+	526			loukkaantua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Autoilija loukkaantui onnettomuudessa. //  Jalankulkija loukkaantui suojatiellä.						
+					*CONCEPTS*													
+	527			loukkaantua			Intransitive	—	HEAD:Noun + Case:Illative			Hän loukkaantui vakavasti päähänsä.						
+					*CONCEPTS*													
+	528			loukkaantua			Intransitive	—	HEAD:Noun + Case:Elative			Hän loukkaantui miehen sanoista.						
+					*CONCEPTS*													
+	529			loukkaantua			Intransitive	—	HEAD:Noun + Case:Allative			Hän loukkaantui minulle.						
+					*CONCEPTS*													
+	533			luennoida			Intransitive	—	HEAD:Noun + Case:Elative			Hän luennoi taloudesta.						
+					*CONCEPTS*													
+	534			luennoida		KOMMUNIKAATIO	Intransitive	—	HEAD:Noun + Case:Allative			Professori luennoi yleisölle.						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	535			lukea			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Luin uutisen lehdestä.						
+					*CONCEPTS*													
+	536			lukea			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Tutkija luki kirjailijan modernisteihin.						
+					*CONCEPTS*													
+	537			lukea			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Ovessa lukee kirjaimia.						
+					*CONCEPTS*													
+	538			lukeutua			Intransitive	—	HEAD:Noun + Case:Illative			Lukeudun äärivasemmistoon.						
+					*CONCEPTS*													
+	539			luonnehtia			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			He luonnehtivat kokousta onnistuneeksi.						
+					*CONCEPTS*													
+	540			luopua			Intransitive	—	HEAD:Noun + Case:Elative			Luovuin ajatuksesta.		Se on ilo, josta en luopuisi mistään hinnasta. ???				
+					*CONCEPTS*													
+	541			luopua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Älä luovu yrittämästä!						
+					*CONCEPTS*													
+	542			luottaa			Intransitive	—	HEAD:Noun + Case:Illative			Luotan sinuun.						
+					*CONCEPTS*													
+	543			luovuttaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Hallitus luovutti palkinnon voittajalle.						
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	544			luulla			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Luulin häntä mukavaksi mieheksi.						
+					*CONCEPTS*													
+	545			luulla				että-lause				Luulen, että Liisa on jo kotona.						
+					*CONCEPTS*													
+	546			luvata		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Johtaja lupasi minulle palkankorotuksen.	Johtaja lupasi minulle lisää palkkaa.					
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	547			luvata			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Lupaan tulla ajoissa.						
+					*CONCEPTS*													
+	548			luvata			Transitive	että-lause				Lupaan, että tulen.						
+					*CONCEPTS*													
+	549			lyödä			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Varas löi uhria päähän // Mies löi kaveriaan kämmenille 						
+					*CONCEPTS*													
+	473			lähennellä			Transitive	HEAD:Noun + Case:Partitive				Kello lähentelee yhtätoista.						
+					*CONCEPTS*													
+	474			lähestyä			Transitive	HEAD:Noun + Case:Partitive				Kone lähestyy lentokenttää.						
+					*CONCEPTS*													
+	475			lähettää		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative	Lapsi lähetti kirjeen joulupukille // Unioni lähetti tarkkailijoita vaaleihin //  Potilas lähetti kortin sairaalasta // Sotilas lähetti kirjeen rintamalta						
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	477			lähettää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative	 		Lähetin Liisan kauppaan ostamaan ruokaa. // Maa lähetti sotilaita taistelemaan						
+					*CONCEPTS*													
+	480			lähteä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Työntekijä lähti kotiin // Hoitaja lähti tauolle // Lääkäri lähti sairaalasta // Mies lähti kioskilta	Hampaasta lähti paikka					
+					*CONCEPTS*													
+	482			lähteä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Lähden pelaamaan tennistä. // Lapset lähtivät uimaan						
+					*CONCEPTS*													
+	532			löytyä		LÄHDE	Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative									
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	530	2.1		löytää		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			löysimme rantakadulta kivan kahvilan						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	531	???		löytää			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative				ESSIVE ? löydettiin kuolleena 					
+					*CONCEPTS*													
+	550			maalata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative // POS:Adjective + Case:Translative			Minkäväriseksi he maalasivat talon?						
+					*CONCEPTS*													
+	553			maata			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Inessive	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive								
+					*CONCEPTS*													
+	554			mahtaa		REAKTIO?	Intransitive	—	HEAD:Noun + Case:Allative			En mahda mitään tälle asialle.				(= voi tehdä)		
+					*CONCEPTS*													
+	555			mahtaa			Intransitive	—	POS:Verb + INF_FORM:Inf-A + Case:Lative			Hän mahtaa olla rikas mies.				(= on varmaankin)		
+					*CONCEPTS*													
+	556	4.8		mahtua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kaikki mahtuvat kyytiin. // Kaikki mahtuvat pöydän ympärille.	Ruoka mahtuu astiaan.					
+					*CONCEPTS*													
+	557			mahtua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Tähän mahtuu istumaan kaksi.	Mahtuuko tähän pöytään syömään?					
+					*CONCEPTS*													
+	558			mainita		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Allative		Mainitsen teille yhden esimerkin.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	559			mainita			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Mainitsen heille asiasta.						
+					*CONCEPTS*													
+	560			mainita			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Essive	HEAD:Noun + Case:Allative		Suosittuna lomakaupunkina voimme mainita Rooman.	Rooma mainittiin suosituimpana lomakaupunkina					
+					*CONCEPTS*													
+	561			mainostaa			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			hän mainostaa kirjaansa kaikissa haastatteluissa.  //  Tupakkaa saa mainostaa TV:ssä.					
+					*CONCEPTS*													
+	562			mainostaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			He mainostavat pesukonetta tehokkaaksi.						
+					*CONCEPTS*													
+	563			maistaa			Transitive	HEAD:Noun + Case:Partitive				Olen maistanut mämmiä.						
+					*CONCEPTS*													
+	564	2.4		maistua		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / POS:Adjective + Case:Ablative / 			Kakku maitstui hyvältä.						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	564	2.4		maistua		AISTI	Intransitive	—	HEAD:Noun + Case:Allative / POS:Adjective + Case:Allative			Mehu maitstuu hyvälle.						
+					*CONCEPTS*				Syntax-allatiivi-aisti									
+	565	3.7		majoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			lapset majoittuivat telttaan						
+					*CONCEPTS*													
+	566			maksaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Ostokset voi maksaa kassalle.						
+					*CONCEPTS*					Syntax-allative-omistaminen								
+	567			maksaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Me maksoimme autosta tuhat euroa.				HUOM. In Finnish tradition, we call this kind of "object" argument OSMA (objektin sijainen määrän adverbiaali).  So it is and adverbial rather than object. For simplicity, I put the argument to "Obj"		
+					*CONCEPTS*													
+	568			maksaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Adessive			Maksatteko (laskun) käteisellä vai luottokortilla?						
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	569			malttaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				En malta enää odottaa.						
+					*CONCEPTS*													
+	570			masentaa			Transitive	HEAD:Noun + Case:Partitive				Nämä asiat masentavat minua.						
+					*CONCEPTS*													
+	571			masentua			Intransitive	—	HEAD:Noun + Case:Elative			Minä en vähästä masennu.						
+					*CONCEPTS*													
+	572			matkia			Transitive	HEAD:Noun + Case:Partitive				Hän osaa matkia hyvin lintujen ääniä.						
+					*CONCEPTS*													
+	573			matkustella			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Matkustelen kotimaassa. // Matkustelen seuramatkoilla.						
+					*CONCEPTS*													
+	574			meinata			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Mitä meinaat tehdä tänään?				(= aikoa)		
+					*CONCEPTS*													
+	575			menestyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Mies menestyi työssään. // Nainen menestyi urallaan.						
+					*CONCEPTS*													
+	576			mennä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Menen kotiin. // Menen lenkille.						
+					*CONCEPTS*													
+	577			mennä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Poika menee täysi-ikäisestä.						
+					*CONCEPTS*													
+	578			mennä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän meni kirjastoon lukemaan.						
+					*CONCEPTS*													
+	579			merkitä			Transitive	HEAD:Noun + Case:Partitive				Englannin sana "car" merkitsee autoa.						
+					*CONCEPTS*													
+	580			merkitä		OMISTAMINEN	Intransitive	–	HEAD:Noun + Case:Allative			Ystävät merkitsevät minulle paljon.						
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	581			miellyttää			Transitive	HEAD:Noun + Case:Partitive				Tämä miellyttää minua.						
+					*CONCEPTS*													
+	582			miettiä			Transitive	HEAD:Noun + Case:Partitive				Mietin asiaa koko illan.						elat
+					*CONCEPTS*													
+	583			moittia			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Opettaja moitti poikaa huonosta käytöksestä.						
+					*CONCEPTS*													
+	584			moittia			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Hän moitti minua laiskaksi.						
+					*CONCEPTS*													
+	585			motivoida			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Illative		Häntä motivoi tarve menestyä.	Huono palkka ei motivoi työntekoon.					
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	586			motivoida			Transitive	! HEAD:Noun + Case:Objective	! POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Yllätysvoitto motivoi joukkueen harjoittelemaan.	Huono palkka ei motivoi työntekijöitä tekemään ylitöitä.					
+					*CONCEPTS*													
+	587			muistaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative / HEAD:Noun + Case:Objective				Muistan ottaa sanakirjan mukaan. // Muistatko sen tarinan, jonka kerroin? // Muistan sinua aina						
+					*CONCEPTS*													
+	588			muistaa			Transitive	että-lause				Muistan, että sanoit näin eilen.						
+					*CONCEPTS*													
+	589			muistella			Transitive	HEAD:Noun + Case:Partitive				Muistelen usein sitä kesää.						
+					*CONCEPTS*													
+	590			muistuttaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Hän muistuttaa minua tästä asiasta ensi viikolla.						
+					*CONCEPTS*													
+	591			muutella			Transitive	HEAD:Noun + Case:Partitive				Hän muuttelee taas projektin aikatauluja.	Olen muutellut tekstiä jonkin verran.					
+					*CONCEPTS*													
+	592			muuttaa			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Muutin maalta kaupunkiin.						
+					*CONCEPTS*													
+	593			muuttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Muutimme varaston työhuoneeksi.						
+					*CONCEPTS*													
+	594			muuttua			Intransitive	—	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative	HEAD:Noun + Case:Elative		Sää on muuttunut aurinkoisesta kylmäksi.						
+					*CONCEPTS*													
+	600			myydä		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Janne myi Samulille vanhan television.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	601			myydä		KORVAUS	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Myin vanhan auton tuhannella eurolla						
+					*CONCEPTS*				syntax-adessive-korvaus									
+	595	2.1		myöhästyä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Myöhästyin junasta. //  Myöhästyin päivälliseltä // oppitunnilta ei saa myöhästyä						
+					*CONCEPTS*													
+	598			myöntyä			Intransitive	—	HEAD:Noun + Case:Illative			Johtaja myöntyi pyyntöön.						
+					*CONCEPTS*													
+	599			myöntyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Johtaja myöntyi antamaan minulle lomaa.						
+					*CONCEPTS*													
+	596			myöntää		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Lautakunta myönsi opettajalle virkavapauden						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	597			myöntää			Transitive	että-lause				Myönnän, että olit oikeassa.				Hän myönsi naisen olevan oikeassa.		
+					*CONCEPTS*													
+	551			määrätä			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Opettaja määräsi pojan kirjoittamaan tekstin uudelleen.	Opettaja ei määränyt poikaa kirjoittamaan tekstia uudelleen.					
+					*CONCEPTS*													
+	552			määrätä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative				Hän määräsi Jussin lehden kirjeenvaihtajaksi Roomaan.					
+					*CONCEPTS*													
+	608			nauraa			Transitive	HEAD:Noun + Case:Partitive					Nauroimme sitä tapausta kauan.					
+					*CONCEPTS*													
+	609			nauraa		REAKTIO?	Intransitive	—	HEAD:Noun + Case:Allative			Kaikki nauroivat hyvälle vitsille.						
+					*CONCEPTS*													
+	610			naurattaa			Transitive	HEAD:Noun + Case:Partitive				Asia nauratti minua.						
+					*CONCEPTS*													
+	611	2.4		nauttia		(+minen)	Intransitive	—	HEAD:Noun + Case:Elative			Nautin kauniista keväästä. // Nautin uimisesta.				(= pidän kovasti)		
+					*CONCEPTS*													
+	613			nauttia			Transitive	HEAD:Noun + Case:Partitive				Nautimme pihalla viiniä ja oliiveja.	Elat			(= joimme ja söimme)		
+					*CONCEPTS*													
+	619			neuvoa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive			Voisit neuvoa minua vähän tietokoneen käytössä.						
+					*CONCEPTS*													
+	620			neuvoa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Neuvoisin teitä lähtemään kentälle ajoissa.						
+					*CONCEPTS*													
+	621			neuvoa		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Hän neuvoi turistille tien asemalle.						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	622			neuvotella			Intransitive	—	HEAD:Noun + Case:Elative			He ovat neuvotelleet palkoista jo 2 viikkoa.						
+					*CONCEPTS*													
+	623			nimittää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Hänet nimitettiin professoriksi.						
+					*CONCEPTS*													
+	624			nimittää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Liisaa nimitetään Lissuksi.				(= kutsua)		
+					*CONCEPTS*													
+	625			nojata			Intransitive	—	HEAD:Noun + Case:Illative			Älä nojaa seinään, se on maalattu!						
+					*CONCEPTS*													
+	626			nolottaa			Transitive	HEAD:Noun + Case:Partitive				Epäonnistuminen nolotti Kallea.						
+					*CONCEPTS*													
+	627			nolottaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua nolottaa puhua suomea, koska osaan sitä niin huonosti.						
+					*CONCEPTS*													
+	628		nosto	nostaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Nostin kissan pöydältä lattialle.						
+					*CONCEPTS*													
+	629			nostaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Nostin verkot kuivumaan.						
+					*CONCEPTS*													
+	630			noudattaa			Transitive	HEAD:Noun + Case:Partitive				Hän noudattaa tätä sääntöä.						
+					*CONCEPTS*													
+	631		nousu	nousta			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	POS:Verb + INF_FORM:Inf-Ma + Case:Illative		Muumio nousi kuolleista kostamaan.						
+					*CONCEPTS*													
+	632			nousta			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän nousi pöydälle puhumaan.					
+					*CONCEPTS*													
+	633			noutaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Äiti nouti ruokaa kaupasta. // Äiti nouti ruokaa lapselleen.						
+					*CONCEPTS*													
+	635			nukkua			Intransitive	—		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Nukuin sohvalla. // Hän nukkui sängyssä.						
+					*CONCEPTS*													
+	636			nukuttaa			Transitive	HEAD:Noun + Case:Partitive				Minua nukuttaa vielä.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	634			nuhdella			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Äiti nuhteli Ossia huolimattomuudesta.						
+					*CONCEPTS*													
+	602			nähdä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative					Näetkö lukea tässä valossa?					
+					*CONCEPTS*													
+	603			nähdä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Oletko nähnyt tämän elokuvan? // Kellosta näkee ajan. // Hän näkee kaiken mustana. 		Nähdä tulevaisuuteen.				
+					*CONCEPTS*													
+	603			nähdä			Transitive	että-lause	HEAD:Noun + Case:Elative			Näin lehdestä, että hän on kuollut.  //  Hänestä näkee, että hän on sairas. // Näen koirista että ne voivat hyvin						
+					*CONCEPTS*													
+	604			nähdä			Transitive	että-lause				Näen, että voit huonosti.						
+					*CONCEPTS*													
+	605			näkyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive									
+					*CONCEPTS*													
+	606			näkyä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative									
+					*CONCEPTS*													
+	607			näkyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*													
+	614			näytellä			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Hän on näytellyt Romeon roolin Kansallisteatterissa.	Hän on näytellyt mm. Romeota ja Hamletia.					
+					*CONCEPTS*													
+	615			näytellä			Intransitive	–	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive				Hän on näytellyt teatterissa.  //  Hän on näytellyt pienellä näyttämöllä.					
+					*CONCEPTS*													
+	616		näyttö	näyttää		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Minä näytän sinulle kotini.	Näytä minulle, missä talossa asut.					
+					*CONCEPTS*				syntax-allative-omistaminen									
+	617			näyttää			Transitive	että-lause				Näytän heille, että olen oikeassa.						
+					*CONCEPTS*													
+	618	2.4		näyttää		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / POS:Adjective + Case:Ablative			Raikas ruoka näytti hyvältä						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	637			odottaa			Transitive	HEAD:Noun + Case:Partitive				Odotin palkkaani kaksi viikkoa.	Voitko odottaa minua hetken?					
+					*CONCEPTS*													
+	638			odottaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive									
+					*CONCEPTS*													
+	639			ohittaa			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Inessive	Kuljettaja ohitti bussin.	Risteyksessä ei saa ohittaa toista autoa.					
+					*CONCEPTS*													
+	640			ohittaa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Ablative / HEAD:Noun + Case:Elative			Kummalta puolelta ohitetaan?					
+					*CONCEPTS*													
+	641			oikeuttaa			Intransitive	–	HEAD:Noun + Case:Illative			Lippu oikeuttaa edestakaiseen matkaan.	Lippu oikeuttaa edestakaiseen matkaan.					
+					*CONCEPTS*													
+	642			oikeuttaa			Intransitive	–	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Lippu oikeuttaa matkustamaan raitiovaunuilla tunnin ajan.						
+					*CONCEPTS*													
+	643			ojentaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Ojensin hänelle käden.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	644			oksettaa			Transitive	HEAD:Noun + Case:Partitive				Häntä oksettaa.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	645			olettaa			Transitive	että-lause				Oletan, että te kaikki tiedätte tämän.						
+					*CONCEPTS*													
+	646			olla			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive									
+					*CONCEPTS*													
+	647			olla			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Inessive			Olin kirjastossa lukemassa.						
+					*CONCEPTS*													
+	648			olla			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Abessive			Hän pääti olla piittaamatta kriitikoiden sanoista.	En voi olla syömättä suklaata.					
+					*CONCEPTS*													
+	649			omistautua		OMISTAMINEN	Intransitive	—	HEAD:Noun + Case:Allative			Hän omistautui vain työlleen.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	650			onnistaa			Transitive	HEAD:Noun + Case:Partitive				Mikkoa onnisti: hän sai apurahan.						
+					*CONCEPTS*													
+	651			onnistaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive			Jannea onnisti työnhaussa.						
+					*CONCEPTS*													
+	652			onnistua			Intransitive	—	HEAD:Noun + Case:Inessive			Onnistuin tentissä.						
+					*CONCEPTS*													
+	653	4.8		onnistua			Intransitive	–	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Onnistuin saamaan liput.						
+					*CONCEPTS*													
+	655	2.6		onnitella			Transitive	HEAD:Noun + Case:Partitive				Onnittelimme isoäitiä hänen syntymäpäivänään.						
+					*CONCEPTS*													
+	656			onnitella			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Onnittelen teitä hyvin tehdystä työstä.						
+					*CONCEPTS*													
+	657			opastaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän opasti turistin hotelliin.						
+					*CONCEPTS*													
+	658			opastaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	POS:Verb + INF_FORM:Inf-Ma + Case:Illative		Hän opasti vieraat ruokasaliin istumaan.						
+					*CONCEPTS*													
+	659			opastaa			Transitive	! HEAD:Noun + Case:Partitive	! HEAD:Noun + Case:Inessive			Hän opastaa minua tietokoneen käytössä.						
+					*CONCEPTS*													
+	660			opetella			Transitive	HEAD:Noun + Case:Objective				Lapsi opettelee aakkoset.						
+					*CONCEPTS*													
+	661			opetella			Intransitive	–	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Lapsi opettelee kävelemään.						
+					*CONCEPTS*													
+	662			opettaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Allative			hän opettaa ensiluokkalaisia.	opetan heitä tavoille			different patterns!		
+					*CONCEPTS*				syntax-allative-omistaminen									
+	663			opettaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Allative			opetan niille vähän tapoja!	Kuka opettaa teille suomea?			different patterns!		
+					*CONCEPTS*				syntax-allative-omistaminen									
+	664			opettaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän opetti minua ajamaan.						
+					*CONCEPTS*													
+	665			opiskella			Transitive	HEAD:Noun + Case:Partitive				Opiskelemme suomea.						
+					*CONCEPTS*													
+	666			opiskella			Intransitive	—		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Hän opiskelee Helsingin yliopistossa.  //  Hän opiskelee Tampereella.						
+					*CONCEPTS*													
+	667			opiskella			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Hän opiskelee sairaanhoitajaksi.						
+					*CONCEPTS*													
+	668			oppia			Transitive	HEAD:Noun + Case:Objective				Hän oppii suomen kielen nopeasti.						
+					*CONCEPTS*													
+	669			oppia			Intransitive	–	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän oppii puhumaan suomea.						
+					*CONCEPTS*													
+	670			oppia			Intransitive	—	HEAD:Noun + Case:Elative			Toivottavasti hän oppii virheistään.						
+					*CONCEPTS*													
+	671	2.7		osallistua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			En voinut osallistua kokoukseen.  // Osallistuin luennoille säännöllisesti						
+					*CONCEPTS*													
+	672			osata			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				hän osaa puhua ranskaa.	En osaa puhua suomea.					
+					*CONCEPTS*													
+	673			osata			Transitive	HEAD:Noun + Case:Objective				Hän osaa ranskaa.						
+					*CONCEPTS*													
+	674	4.8		osoittaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän osoitti myyjää aseella // osoitti varkaan poliisille						
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	675			osoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Hän osoitti väitteen vääräksi.	Pystytkö osoittamaan väitteen vääräksi?			(= todistamaan)		
+					*CONCEPTS*													
+	676			osoittaa			Transitive	että-lause				Hän osoitti, että Saara oli väärässä.						
+					*CONCEPTS*													
+	677			osoittautua			Intransitive	—	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Tehtävä osoittautui helpoksi.						
+					*CONCEPTS*													
+	678			ostaa		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Allative		ostin koiran tyttärelleni						
+					*CONCEPTS*					Syntax-allative-omistaminen								
+	679			osua			Intransitive	—	HEAD:Noun + Case:Illative			Pallo osui ikkunaan.						
+					*CONCEPTS*													
+	680			osua			Transitive	! HEAD:Noun + Case:Partitive	! HEAD:Noun + Case:Illative			Laukaus osui miestä jalkaan.						
+					*CONCEPTS*													
+	681			ottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative									
+					*CONCEPTS*													
+	682			ottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*				Syntax-allative-omistaminen									
+	691			paeta			Transitive	HEAD:Noun + Case:Partitive				Mies pakeni poliisia.						
+					*CONCEPTS*													
+	692			paeta			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative									
+					*CONCEPTS*													
+	693			paeta			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*													
+	694			paheksua			Transitive	HEAD:Noun + Case:Partitive				Kaikki paheksuvat tupakanpolttoa.						
+					*CONCEPTS*													
+	695			pahentaa			Transitive	HEAD:Noun + Case:Partitive				Käytöksesi vain pahensi asiaa.						
+					*CONCEPTS*													
+	696			paijata			Transitive	HEAD:Noun + Case:Partitive				Ville paijaa kissaa.						
+					*CONCEPTS*													
+	697		paino	painaa			Transitive	HEAD:Noun + Case:Partitive				Rahahuolet painavat mieltäni.						
+					*CONCEPTS*													
+	698			painaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*													
+	699			painostaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän yritti painostaa minua autokaupasa myymään auton halvalla.				Obj + V + mAAn	NO: object=Part	
+					*CONCEPTS*													
+	700			painottaa			Transitive	HEAD:Noun + Case:Partitive				Painotan seuraavaa asiaa.	Haluan painottaaa seuravaa asiaa.					
+					*CONCEPTS*													
+	701			painottua			Intransitive	—	HEAD:Noun + Case:Illative			Kurssi painottuu puhekielen opetukseen.						
+					*CONCEPTS*													
+	702			painua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Aurinko painui horisonttiin.						
+					*CONCEPTS*													
+	703		pakkaus	pakata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Pakkasin tavarat matkalaukkuun.						
+					*CONCEPTS*													
+	704			pakottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Poliisi pakotti mielenosoittajat autoon.						
+					*CONCEPTS*													
+	705			pakottaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Pakotan lapsen syömään lautasen tyhjäksi.						
+					*CONCEPTS*													
+	709			palauttaa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Hän palautti kirjan minulle.	Kirjat täytyy palauttaa kirjastoon.					
+					*CONCEPTS*													
+	706			palata			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Hän palasi opiskelemasta.						
+					*CONCEPTS*													
+	707			palata			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän palasi kouluun pitkän tauon jälkeen.						
+					*CONCEPTS*													
+	708			palata			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän palasi kotimaahan opiskelemaan.						
+					*CONCEPTS*													
+	710			palkata			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän palkkasi minut auttamaan teitä.						
+					*CONCEPTS*													
+	711		palkinto	palkita			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			He palkitsivat hänet hyvästä työstä.						
+					*CONCEPTS*													
+	712			paloitella			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Paloittelemme lihan isoiksi kuutioiksi.						
+					*CONCEPTS*													
+	713		palvelu	palvella			Transitive	HEAD:Noun + Case:Partitive				Myyjä palveli minua ystävällisesti.						
+					*CONCEPTS*													
+	714			palvoa			Transitive	HEAD:Noun + Case:Partitive				Esi-isät palvoivat aurinkoa.						
+					*CONCEPTS*													
+	715			paneutua			Intransitive	—	HEAD:Noun + Case:Illative			En jaksa paneutua yksityiskohtiin.						
+					*CONCEPTS*													
+	716			panna			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Äiti pani pahvit kierrätykseen roskakorista. // Äiti pani vaatteet hengarille lattialta.						
+					*CONCEPTS*													
+	717			panna			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Aupair pani lapset nukkumaan.						
+					*CONCEPTS*													
+	718			parantua			Intransitive	—	HEAD:Noun + Case:Elative			Olen jo parantunut flunssasta.						
+					*CONCEPTS*													
+	720			parkkeerata			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Mies parkkeerasi auton takapuhalle.				(= pysäköidä)		
+					*CONCEPTS*													
+	721			parodioida			Transitive	HEAD:Noun + Case:Partitive				Kirjailija parodioi kansallisrunoilijan tyyliä.						
+					*CONCEPTS*													
+	722			pelastaa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Elative		Pelasti tilanteen nokkeluudellaan.	Palomiehet pelastivat kaikki 5 miestä palavasta talosta.					
+					*CONCEPTS*													
+	723			pelastaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Hän pelasti miehen joutumasta vaikeuksiin.						
+					*CONCEPTS*													
+	724			pelastua			Intransitive	—	HEAD:Noun + Case:Elative			Miehet pelastuivat palavasta talosta.						
+					*CONCEPTS*													
+	725			pelastua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Mies pelastui joutumasta vankilaan.						
+					*CONCEPTS*													
+	728			pelata			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Hän pelasi omaan pussiin. 						
+					*CONCEPTS*													
+	731			pelotella		KEINO/VÄLINE 	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Adessive			Tyttö pelotteli poikaa kummitusjutuilla.	Pojat yrittivät pelotella tyttöjä kummitusjutuilla.					
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	732			pelottaa			Transitive	HEAD:Noun + Case:Partitive				Ukonilma pelottaa minua.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	733			pelottaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua pelottaa mennä kellariin.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	726			pelästyä			Transitive	HEAD:Noun + Case:Partitive				Kaikki pelästyivät kovaa huutoa.				INTR?		
+					*CONCEPTS*													
+	727			pelästyä			Intransitive	–	HEAD:Noun + Case:Elative			Mies pelästyi varoituksista.	Pelästyin lääkärin varoituksista ja lopetin tupakanpolton.					
+					*CONCEPTS*													
+	729			pelätä			Transitive	HEAD:Noun + Case:Partitive				Pelkään pimeää.						
+					*CONCEPTS*													
+	730			pelätä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Hän pelkää jäädä yksin kotiin.						
+					*CONCEPTS*													
+	734			perehtyä			Intransitive	—	HEAD:Noun + Case:Illative			En ole vielä ehtinyt perehtyä asiaan.						
+					*CONCEPTS*													
+	735			periä		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Ablative			Hän peri talon vanhemmiltaan.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	736			periä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Pankki perii korkoa lainasta.	Pankki perii lainasta korkoa.					
+					*CONCEPTS*													
+	737	4.8		perustaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Kaupunki perustaa uuden koulun Tikkurilaan.						
+					*CONCEPTS*													
+	738	4.8		perustua			Intransitive	—	HEAD:Noun + Case:Illative			Mihin väitteesi perustuu?						
+					*CONCEPTS*													
+	739			petkuttaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive			Hän petkutti minua asuntokaupassa.						
+					*CONCEPTS*													
+	741			pettyä			Intransitive	—	HEAD:Noun + Case:Illative			Petyin häneen.						
+					*CONCEPTS*													
+	740			pettää			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Inessive		Hän petti minua asuntokaupassa.						
+					*CONCEPTS*													
+	742			piileskellä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Hiiri piileskeli kolossaan // Toimitusjohtaja piileskeli huvilallaan.						
+					*CONCEPTS*													
+	743			piilottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Varas piilotti saaliinsa maakuoppaan. // Varas piilotti veneen luodolle.						
+					*CONCEPTS*													
+	744			piilottaa		EPÄTOIVOTTU-K	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Ablative			Äiti piilotti joululahjat lapsilta.						
+					*CONCEPTS*				Syntax-ablative-epatoivottu-katsoja									
+	745			piiloutua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Varas piiloutui maakuoppaan. // Varas piiloutui luodolle.						
+					*CONCEPTS*													
+	746			piiloutua		EPÄTOIVOTTU-K	Intransitive	—	HEAD:Noun + Case:Ablative			Greta Garbo piiloutui julkisuudelta.						
+					*CONCEPTS*				Syntax-ablative-epatoivottu-katsoja									
+	747			piirtää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Lapsi piirsi vihkoonsa. // Lapsi piirsi seinille.						
+					*CONCEPTS*													
+	748			pilailla			Intransitive	—	HEAD:Noun + Case:Elative			Älä pilaile vakavista asioista!						
+					*CONCEPTS*													
+	749			pilkata			Transitive	HEAD:Noun + Case:Partitive				Hän pilkkaa minua.						
+					*CONCEPTS*													
+	750			pilkkoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Pilkoin omenat pieniksi paloiksi.						
+					*CONCEPTS*													
+	751			pilkkoa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative		Pilkoin omenat ja kurkut salaattiin.						
+					*CONCEPTS*													
+	752			pinota			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Äiti pinosi laatikot kaappiin. // Äiti pinosi kukkaruukut terassille.						
+					*CONCEPTS*													
+	754			piristyä			Intransitive	—	HEAD:Noun + Case:Elative			Mari piristyi matkasta kovasti.						
+					*CONCEPTS*													
+	753			piristää			Transitive	HEAD:Noun + Case:Partitive				Matka piristi häntä kovasti.						
+					*CONCEPTS*													
+	757			pistäytyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Etsivä pistäytyi pubissa. // Etsivä pistäytyi korjaamolla. 				(= käyn)		
+					*CONCEPTS*													
+	758			pistäytyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Inessive			Pistäydyin torilla ostamassa kalaa.						
+					*CONCEPTS*													
+	755			pistää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Ampiainen pisti lasta poskeen.	Ampiainen pisti häntä poskeen.					
+					*CONCEPTS*													
+	756			pistää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Työntekijä pisti kirjan laatikkoon.						
+					*CONCEPTS*													
+	759	2.4		pitää		(+minen)	Intransitive	—	HEAD:Noun + Case:Elative			Kalle pitää laulamisesta. // Pidän ruoan tekemisestä.	Pidän Liisasta.			(= tykkään)		
+					*CONCEPTS*													
+	761			pitää			Transitive	! HEAD:Noun + Case:Partitive	! HEAD:Noun + Case:Essive			Liisa pitää Jussia mukavana miehenä.  //  Pidätkö minua tyhmänä?				!!! mark obligatory arguments		
+					*CONCEPTS*													
+	761			pitää			Transitive	! HEAD:Noun + Case:Accusative	! HEAD:Noun + Case:Essive			Liisa pitää kissan tyytyväisenä.  //  Pidätkö minut nälkäisenä?				!!! mark obligatory arguments		
+					*CONCEPTS*													
+	762			pohtia			Transitive	HEAD:Noun + Case:Partitive				He pohtivat ongelmaa pari päivää.						
+					*CONCEPTS*													
+	763			poiketa			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Elokuva poikkesi romaanista monessa kohtaa. // Mies poikkesi kaidalta polulta.						
+					*CONCEPTS*													
+	764			poiketa			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Isä poikkesi kaupassa. // Äiti poikkesi autokorjaamolla. 				(= pistäydyn, käyn)		
+					*CONCEPTS*													
+	765			poiketa			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive	POS:Verb + INF_FORM:Inf-Ma + Case:Inessive		Poikkesin sairaalassa katsomassa isoäitiäni.						
+					*CONCEPTS*													
+	766			poistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Poika poisti tahran / Poika poisti tahran puserosta.						
+					*CONCEPTS*													
+	767			poistua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Mies poistui junasta.						
+					*CONCEPTS*													
+	768			pommittaa			Transitive	HEAD:Noun + Case:Partitive				Lentokoneet pommittivat kaupunkia koko yön.						
+					*CONCEPTS*													
+	769			protestoida			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive			Hän protestoi päätöstä vastaan.						
+					*CONCEPTS*													
+	770			protestoida			Transitive	HEAD:Noun + Case:Partitive				Hän protestoi päätöstä.						
+					*CONCEPTS*													
+	771			pudota			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Hän putosi veneestä veteen.	Lasi putosi pöydältä lattialle.					
+					*CONCEPTS*													
+	772			pudottaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Pudotin kirjeen kädestäni postilaatikkoon.	Pudotin kirjeen pöydältä lattialle.					
+					*CONCEPTS*													
+	773			puhaltaa			Intransitive	—	HEAD:Noun + Case:Illative			Äiti puhalsi lapsen sormeen.						
+					*CONCEPTS*													
+	774			puhaltaa			Transitive	HEAD:Noun + Case:Partitive				Äiti puhalsi lapsen sormea.						
+					*CONCEPTS*													
+	775			puhdistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Poika puhdistaa kengät kurasta.	Puhdista kengät kurasta ulkona!					
+					*CONCEPTS*													
+	776			puhjeta			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Lehdet puhkesivat puihin.	Lapselle puhkesi paha allergia.					
+					*CONCEPTS*													
+	777			puhjeta			Intransitive	—	HEAD:Noun + Case:Elative			Autosta puhkesi rengas.						
+					*CONCEPTS*													
+	778			puhua		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Partitive				Puhutte suomea hyvin.						
+					*CONCEPTS*													
+	779			puhua			Intransitive	—	HEAD:Noun + Case:Elative			Puhumme säästä.						
+					*CONCEPTS*													
+	780			puhua		KOMMUNIKAATIO	Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Puhuin jo asiasta Liisalle.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	781			punastua			Intransitive	—	HEAD:Noun + Case:Elative			Hän punastui häpeästä.						
+					*CONCEPTS*													
+	782			puoltaa			Transitive	HEAD:Noun + Case:Partitive				Puollan opiskelijan apuraha-anomusta.						
+					*CONCEPTS*													
+	783			puolustaa			Transitive	HEAD:Noun + Case:Partitive				Puolustamme häntä.						
+					*CONCEPTS*													
+	784			puolustaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive			He puolustivat isänmaataan vihollista vastaan.						
+					*CONCEPTS*													
+	785			puolustautua			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive			He puolustautuivat hyökkääjiä vastaan.						
+					*CONCEPTS*													
+	786			puolustella			Transitive	HEAD:Noun + Case:Partitive				Hän puolusteli tekemisiään.	Yritän puolustella itseäni.					
+					*CONCEPTS*													
+	787			puolustella		KEINO/VÄLINE 	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Adessive			Hän puolusteli myöhästymistään työkiireillä.						
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+				purkaa			Transitive	HEAD:Noun + Case:Objective				Purimme lastia iltaan asti // He purkivat lastin hetkessä						
+					*CONCEPTS*													
+	788			purra			Transitive	HEAD:Noun + Case:Partitive				Käärme puri häntä.						
+					*CONCEPTS*													
+	789			purra			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Koira puri miestä käteen.	Mihin koira puri, käteenkö?					
+					*CONCEPTS*													
+	790			puuttua		LÄHDE	Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Takista puuttuu nappi.	Minulta puuttuu rahaa.					
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	791			puuttua			Intransitive	—	HEAD:Noun + Case:Illative			Hän puuttuu joka asiaan.				(= sekaantuu)		
+					*CONCEPTS*													
+	794			pyrkiä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Oppilas pyrki parempiin tuloksiin. // Eläimet pyrkivät paremmille apajille.						
+					*CONCEPTS*													
+	795			pyrkiä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän pyrkii opiskelemaan lääketiedettä.						
+					*CONCEPTS*													
+	802			pystyttää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Yritys pystytti toimiston Tukholmaan.						
+					*CONCEPTS*													
+	800	3.5		pystyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Pystytkö nostamaan tämän laatikon ylähyllylle?  //  En pysty tanssimaan.						
+					*CONCEPTS*													
+	801			pystyä			Intransitive	—	HEAD:Noun + Case:Illative			En pysty tähän työhön.						
+					*CONCEPTS*													
+	803			pysyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Kotka pysyi pesässään tuntikausia. // Taulu pysyi seinällä kunnes naula lopulta irtosi.						
+					*CONCEPTS*													
+	804			pysyä			Intransitive	—	HEAD:Noun + Case:Essive			Sää pysyi aurinkoisena koko loman.						
+					*CONCEPTS*													
+	796			pysähtyä			Intransitive	—		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive								
+					*CONCEPTS*													
+	797			pysähtyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Auto pysähtyi piikkimattoon.				(= jäi)		
+					*CONCEPTS*													
+	798			pysähtyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Pysähdyin kadulle juttelemaan naapurin kanssa.						
+					*CONCEPTS*													
+	799			pysäköidä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Pysäköin auton pihalle.						
+					*CONCEPTS*													
+	805			pyytää		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Mies pyysi lomakkeen toimistosta.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	806			pyytää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Mies pyysi naista tanssiin.				(= kutsui)		
+					*CONCEPTS*													
+	807			pyytää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Pyysimme Matin erotuomariksi.						
+					*CONCEPTS*													
+	808			pyytää			Transitive	! HEAD:Noun + Case:Partitive	! POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Pyydän sinua auttamaan.						
+					*CONCEPTS*													
+	809			pyytää			Transitive	että-lause				Hän pyysi, että tulisin yksin.						
+					*CONCEPTS*													
+	792			pyörryttää			Transitive	HEAD:Noun + Case:Partitive				Minua pyörrytti.				NO SUBJECT		
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	793			pyörtyä			Intransitive	—		HEAD:Noun + Case:Elative		Mies pyörtyi kivusta.						
+					*CONCEPTS*													
+	719			pärjätä		KEINO/VÄLINE 	Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Anna pärjää hyvin koulussa.	Anna pärjää hyvin suomen kielellä.			(= menestyy)		
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	683	2.1		päästä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	Lapset pääsivät uimaan	Pääsi käymään ulkomailla					
+					*CONCEPTS*													
+	684			päästää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Päästin kissan pihalle juoksemaan.						
+					*CONCEPTS*													
+	685			päätellä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Päättelin hänen ikänsä äänestä.	Päättelin äänestä, että soittaja oli lapsi.					
+					*CONCEPTS*													
+	686			päätellä			Transitive	että-lause	HEAD:Noun + Case:Elative			Päättelin hänen nimestään, että hän on irlantilaista syntyperää.						
+					*CONCEPTS*													
+	689	3.8		päättyä			Intransitive	—	HEAD:Noun + Case:Illative			Tie päättyy rantaan.						
+					*CONCEPTS*													
+	690	4.8		päätyä			Intransitive	—	HEAD:Noun + Case:Illative			Mihin tulokseen olette päätyneet?				(= tulleet)		
+					*CONCEPTS*													
+	687			päättää			Transitive		HEAD:Noun + Case:Elative			Päätimme asiasta viime kokouksessa.						
+					*CONCEPTS*													
+	688			päättää			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Päätin alkaa opiskella ranskaa.						
+					*CONCEPTS*													
+	811			raivostua		REAKTIO?	Intransitive	—	HEAD:Noun + Case:Allative			Miksi hän raivostui minulle?						
+					*CONCEPTS*													
+	812			raivostua			Intransitive	—	HEAD:Noun + Case:Elative			Mistä sinä tuolla tavalla raivostuit?						
+					*CONCEPTS*													
+	813			raivostuttaa			Transitive	HEAD:Noun + Case:Partitive				Oppilaiden käytös raivostutti opettajaa.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	814			raivostuttaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua raivostuttaa istua sisällä kauniina kesäpäivänä.						
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	815			rajoittaa			Transitive	HEAD:Noun + Case:Partitive				Yritän rajoittaa tupakanpolttoani.				(= rajoittaa, vähentää)		
+					*CONCEPTS*													
+	816			rajoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Säännöt rajoittavat tapahtuman keston tuntiin.	Puheenvuorojen kesto on rajoitettu viiteen minuuttiin.					
+					*CONCEPTS*													
+	817			rajoittua			Intransitive	—	HEAD:Noun + Case:Illative			Tontti rajoittuu metsään.						
+					*CONCEPTS*													
+	818			rakastaa		(+minen)	Transitive	HEAD:Noun + Case:Partitive				Hän rakastaa klassista musiikkia. // Rakastan kirjojen lukemista.						gen
+					*CONCEPTS*													
+	820	2.7		rakastua			Intransitive	—	HEAD:Noun + Case:Illative			Hän rakastui Liisaan.						
+					*CONCEPTS*													
+	821			rakentaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän rakensi taloon portaikon. // Hän rakensi ullakolle uuden huoneen.						
+					*CONCEPTS*													
+	822			rangaista			Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Elative		Opettaja rankaisi meitä huolimattomuudesta.						
+					*CONCEPTS*													
+	823			rasittaa			Transitive	HEAD:Noun + Case:Partitive				Television katselu rasittaa silmiä.						
+					*CONCEPTS*													
+	824			rasittaa		KEINO/VÄLINE 	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Adessive			Mies rasittaa itseään liialla liikunnalla.	Älä rasita itseäsi tällä asialla.					
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	825			rasittaa			Transitive	HEAD:Noun + Case:Partitive	Subject=POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua rasittaa istua sisällä kauniina kesäpäivänä.				(= harmittaa)		
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	826			rasittua			Intransitive	—	HEAD:Noun + Case:Elative			Silmäni rasittuvat television katselusta.						
+					*CONCEPTS*													
+	827			ravistaa			Transitive	HEAD:Noun + Case:Partitive				Lääkepulloa täytyy ravistaa.	Lääkepulloa täytyy ravistaa.					
+					*CONCEPTS*													
+	828			reagoida			Intransitive	—	HEAD:Noun + Case:Illative			Iho reagoi herkästi auringonvaloon.						
+					*CONCEPTS*													
+	829			repiä			Transitive	! HEAD:Noun + Case:Objective	! HEAD:Noun-ONLY + Case:Translative			Hän repi valokuvan pieniksi palasiksi.						
+					*CONCEPTS*													
+	830			repiä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Kalle repi Maijua tukasta.						
+					*CONCEPTS*													
+	831			riidellä			Intransitive	—	HEAD:Noun + Case:Elative			He riitelevät aina rahasta.						
+					*CONCEPTS*													
+	832	2.4		riippua			Intransitive	—	HEAD:Noun + Case:Elative			Riippuu ilmasta, lähdemmekö ulos.						
+					*CONCEPTS*													
+	833			riippua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Takki riippuu naulassa.				(= roikkuu)		
+					*CONCEPTS*													
+	834			riistää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			He riistivät häneltä koko omaisuuden. // Siinä talossa Guido riisti hengen itseltään.						
+					*CONCEPTS*													
+	835			riittää		OMISTAMINEN	Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Rahani riittävät hampurilaiseen. 						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	836			riittää			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Se riitti selittämään asian.						
+					*CONCEPTS*													
+	837			rikkoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Hän rikkoi maljakon sirpaleiksi.						
+					*CONCEPTS*													
+	838			rikkoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			He rikkoivat autosta tuulilasin ja takavalot.						
+					*CONCEPTS*													
+	839			ripustaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Ripustin verhot ikkunaan.	Ripustin taulun seinälle.					
+					*CONCEPTS*													
+	840			ristiä			Transitive	! HEAD:Noun + Case:Objective	! HEAD:Noun-ONLY + Case:Translative			Pappi risti lapsen Liisaksi.	Poika ristittiin Viljamiksi.			(= kastettiin)		
+					*CONCEPTS*													
+	841			rohjeta			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Rohkenen väittää vastaan.						
+					*CONCEPTS*													
+	842			rohkaista			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Opettaja rohkaisi meitä puhumaan suomea.				Obj Part + V + mAAn		
+					*CONCEPTS*													
+	843			roikkua			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Naru roikkuu puussa.						
+					*CONCEPTS*													
+	844			rukoilla			Transitive	HEAD:Noun + Case:Partitive				Rukoilemme kirkossa Jumalaa.						
+					*CONCEPTS*													
+	845			rukoilla			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Rukoilen sinua tulemaan ajoissa.						
+					*CONCEPTS*													
+	846			ruveta			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän rupesi tekemään harjoituksia.						
+					*CONCEPTS*													
+	847			ruveta			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Kotirouvaksi en rupea ikinä!						
+					*CONCEPTS*													
+	848			ryhtyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Ryhdyin tekemään kotitehtäviä.						
+					*CONCEPTS*													
+	849			ryhtyä			Intransitive	—	HEAD:Noun + Case:Illative			Neuvotteluihin ryhdytään viikon kuluttua.						
+					*CONCEPTS*													
+	850	3.5		ryhtyä			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Hän ryhtyi maanviljelijäksi.  //  Ryhdyin taiteilijaksi						
+					*CONCEPTS*													
+	851			rynnätä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Tarjoilija ryntäsi keittiöön.						
+					*CONCEPTS*													
+	852			rynnätä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Kokki ryntäsi keittiöstä.						
+					*CONCEPTS*													
+	853			rynnätä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän ryntäsi hakemaan apua.						
+					*CONCEPTS*													
+	810			rääkätä			Transitive	HEAD:Noun + Case:Partitive				Pojat rääkkäsivät kissaa.						
+					*CONCEPTS*													
+	854			saada			Transitive	HEAD:Noun + Case:Objective				Mies sai uuden ystävän.						
+					*CONCEPTS*													
+	855	4.8		saada			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Sinä saat kysyä yhden kysymyksen.						
+					*CONCEPTS*													
+	856			saada			Transitive	! HEAD:Noun + Case:Objective	! POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Sain Kalevin tekemään kaikki kotityöt.						
+					*CONCEPTS*													
+	858			saapua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Milloin hän saapuu Kreikasta Helsinkiin?	Milloin hän saapuu matkalta Tampereelle?					
+					*CONCEPTS*													
+	859			saapua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	POS:Verb + INF_FORM:Inf-Ma + Case:Illative		Milloin hän saapuu Suomeen esiintymään?						
+					*CONCEPTS*													
+	864			saattaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Saatan sinut kotiin.						
+					*CONCEPTS*													
+	865			saattaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Hän saattaa tulla illalla.				(= ehkä tulee)		
+					*CONCEPTS*													
+	871			sairastaa			Transitive	HEAD:Noun + Case:Partitive				Hän sairastaa reumaa.						
+					*CONCEPTS*													
+	872			sairastua			Intransitive	—	HEAD:Noun + Case:Illative			Koko perhe sairastui flunssaan.						
+					*CONCEPTS*													
+	874			sanoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Opettaja sanoi oppilaille seuraavan viikon tehtävät.  //  Opettaja sanoi oppilaille suorat sanat.	Sanomme kaikille terveisiä.					
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	875			sanoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Liisa sanoi muutaman sanan uudesta projektista.	En osaa sanoa mitään siitä asiasta.					
+					*CONCEPTS*													
+	876			sanoa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Hän sanoi minua hölmöksi.				(= ehdottaa / epäillä / sanoa)		
+					*CONCEPTS*													
+	876			sanoa			Transitive	että-lause	HEAD:Noun + Case:Allative			Hän sanoi minua hölmöksi.				(= ehdottaa / epäillä / sanoa)		
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	879			sattua			Intransitive	–	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Satutko tietämään kellonajan.				(= tiedätkö sattumalta),		
+					*CONCEPTS*													
+	880			sattua			Intransitive	–	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Poliisi sattui paikalle sattumalta.						
+					*CONCEPTS*													
+	881			sattua			Transitive	HEAD:Noun + Case:Partitive				Minua sattuu.						
+					*CONCEPTS*													
+	882			sattua			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Mihin sinua sattuu?						
+					*CONCEPTS*													
+	883			satuttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Satutin pääni pöydänkulmaan.						
+					*CONCEPTS*													
+	884			seisoa			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Sotilaat seisoivat asennossa // Nainen seisoi parvekkeella 						
+					*CONCEPTS*													
+	885			seisoa			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Inessive			He seisovat pysäkillä odottamassa bussia.						
+					*CONCEPTS*													
+	886			sekaantua			Intransitive	—	HEAD:Noun + Case:Illative			Älä sekaannu tähän asiaan!				(= puutu)		
+					*CONCEPTS*													
+	887			sekoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative				Sekoita jauhot ensin maitoon.					
+					*CONCEPTS*													
+	888			selittää		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			Hän selitti asian meille hyvin yksinkertaisesti.						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	889			selvitä		KEINO/VÄLINE 	Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Adessive		He selvisivät onnettomuudesta hengissä. // He selvisivät säikähdyksellä.	Näin pienellä palkalla en selviä laskuista.					
+					*CONCEPTS*					Syntax-adessiivi-keino-väline								
+	890			selviytyä			Intransitive	—	HEAD:Noun + Case:Elative			Selviydyin tehtävästä hyvin.				(= selvisin)		
+					*CONCEPTS*													
+	891			seurata			Transitive	HEAD:Noun + Case:Partitive				Seuraan tuota autoa.						
+					*CONCEPTS*													
+	892			seurata			Intransitive	—	HEAD:Noun + Case:Elative			Asiasta seuraa ongelmia.	Tuosta ei kyllä voi seurata mitään hyvää.					
+					*CONCEPTS*													
+	893			seurustella			Intransitive	—	HEAD:PostPosition + Base:kanssa + Gov_Case:Genitive			Matti seurusteli Ullan kanssa.						
+					*CONCEPTS*													
+	894			sietää			Transitive	HEAD:Noun + Case:Partitive				Kaktus sietää hyvin kuivuutta.				(= kestää)		
+					*CONCEPTS*													
+	895			sietää			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Asiaa sietää harkita.				(= kannattaa)		
+					*CONCEPTS*													
+	898	4.2		siirtyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Siirryin toisiin tehtäviin // Hän siirtyi eläkkeelle						
+					*CONCEPTS*													
+	899			siirtyä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Eläin siirtyi paikasta toiseen // Auto siiirtyi omistajalta toiselle						
+					*CONCEPTS*													
+	900			siirtyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Siirryimme jatkamaan juhlia sisälle.						
+					*CONCEPTS*													
+	896			siirtää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Siirrämme huonekalut sisään // Siirrän painon toiselle jalalle						
+					*CONCEPTS*													
+	897			siirtää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Siirsin astiat pois kaapista // Siirsin astiat kaapista toiseen // Siirsin astiat kaapista ullakolle						
+					*CONCEPTS*													
+	901			sijaita			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Taidemuseo sijaitsee Turussa.	Helsinki sijaitsee Suomenlahden rannalla.			(= on)		
+					*CONCEPTS*													
+	902			sijoittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Uudet asukkaat sijoittivat television keittiöön.						
+					*CONCEPTS*													
+	903			silittää			Transitive	HEAD:Noun + Case:Partitive				Maija silitti kissaa.				(= paijasi)		
+					*CONCEPTS*													
+	904			sinutella			Transitive	HEAD:Noun + Case:Partitive				Minä sinuttelen kaikkia.	Voiko opettajaa sinutella?					
+					*CONCEPTS*													
+	905			sisältyä			Intransitive	—	HEAD:Noun + Case:Illative			Sisältyykö hotellihuoneen hintaan myös aamiainen?						
+					*CONCEPTS*													
+	906			sitoa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Sidon narun puuhun.						
+					*CONCEPTS*													
+	907			sitoutua			Intransitive	—	HEAD:Noun + Case:Illative			En ole sitoutunut mihinkään puolueeseen.						
+					*CONCEPTS*													
+	908			sitoutua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Sitouduin maksamaan Kalevin velat.						
+					*CONCEPTS*													
+	909			sivellä			Transitive	HEAD:Noun + Case:Partitive				Äiti siveli pojan päätä.				(= silitti)		
+					*CONCEPTS*													
+	910			sivellä			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Äiti siveli aurinkorasvaa pojan poskiin.	Sivele rasvaa poskiin.  //  Sivele voita leivälle.			(= levitä)		
+					*CONCEPTS*													
+	911			soittaa			Transitive	HEAD:Noun + Case:Partitive				Joku soittaa ovikelloa.						
+					*CONCEPTS*													
+	912			soittaa		KOMMUNIKAATIO	Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Soitin matkatoimistoon // Tyttö soitti ystävälleen						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	913	3.5		sopeutua			Intransitive	—	HEAD:Noun + Case:Illative			Yritä sopeutua tilanteeseen!  //  Olen sopeutunut tilanteeseen						
+					*CONCEPTS*													
+	914			sopia		OMISTAMINEN	Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Keltainen sopii sinulle.  //  Ruoka sopii astiaan.  //  Pusero sopii sinulle hyvin		Ruoka mahtuu astiaan.				
+					*CONCEPTS*				syntax-allative-omistaminen									
+	915			sopia			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Liisa sopii lentoemännäksi.						
+					*CONCEPTS*													
+	916			sopia			Intransitive	—	HEAD:Noun + Case:Elative			Me sovimme asiasta.						
+					*CONCEPTS*													
+	917			sopia			Transitive	HEAD:Noun + Case:Objective				Me sovimme asian.				Lari: lisätty tämä		
+					*CONCEPTS*													
+	919			sopia			Transitive	että-lause				Sopiiko sinulle, että tapaamme ensi viikolla?						
+					*CONCEPTS*													
+	920			sotia			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive			He sotivat naapurimaata vastaan.				(= käyvät sotaa)		
+					*CONCEPTS*													
+	921			sotia			Intransitive	—	HEAD:PostPosition + Base:puolesta + Gov_Case:Genitive			He sotivat isänmaan puolesta.						
+					*CONCEPTS*													
+	922			sotkea			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Mies sotki ystävänsä asiaan.	Älä sotke minua tähän asiaan!					
+					*CONCEPTS*													
+	923			sotkeutua			Intransitive	—	HEAD:Noun + Case:Illative			Mihin skandaaliin hän on sotkeutunut?						
+					*CONCEPTS*													
+	924			soveltaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Minä sovellan teoriaa käytäntöön.	Teoriaa ei ole vielä sovellettu käytäntöön.			soveltaa ohjeet Suomen oloihin		
+					*CONCEPTS*													
+	925	4.7		soveltua			Intransitive	—	HEAD:Noun + Case:Illative			Tämä maali ei sovellu ulkoseinien maalaamiseen.				(= sovi)		
+					*CONCEPTS*													
+	926			sovittaa			Transitive	HEAD:Noun + Case:Partitive				Sovitin takkia ja huomasin, että se oli liian iso.						
+					*CONCEPTS*													
+	927	4.8		suhtautua			Intransitive	—	HEAD:Noun + Case:Illative			Miten hän suhtautuu teihin?						
+					*CONCEPTS*													
+	928			suojata		ESTE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Ablative			Katos suojaa meidät sateelta.						
+					*CONCEPTS*				syntax-ablative-este									
+	929			suojata			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Sateenvarjo suojasi meitä kastumasta.						
+					*CONCEPTS*													
+	930			suojautua		ESTE	Intransitive	—	HEAD:Noun + Case:Ablative	POS:Verb + INF_FORM:Inf-Ma + Case:Adessive		Miten voi suojautua pakkaselta?	Kylmältä voi suojautua panemalla lämpimät vaatteet päälle.					
+					*CONCEPTS*				syntax-ablative-este									
+	931			suojella		ESTE	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Ablative			Äiti suojelee lasta.	Hän suojelee lasta vaaroilta.					
+					*CONCEPTS*				syntax-ablative-este									
+	932			suosia			Transitive	HEAD:Noun + Case:Partitive				Sää suosi meitä viikonloppuna: aurinko paistoi koko ajan.						
+					*CONCEPTS*													
+	933			suositella			Transitive	HEAD:Noun + Case:Partitive				Suosittelen sinulle suomen kielen intensiivikurssia.						
+					*CONCEPTS*													
+	934			suositella		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Hän suositteli minua kerhoon						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	935			suositella			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Suosittelimme häntä puheenjohtajaksi.						
+					*CONCEPTS*													
+	936			suositella			Transitive	että-lause				Suosittelen, että lähdet.	Suosittelen, että menet suomen kielen intensiivikurssille.					
+					*CONCEPTS*													
+	937			suostua			Intransitive	—	HEAD:Noun + Case:Illative			Hän suostui pyyntöön.						
+					*CONCEPTS*													
+	938			suostua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			En suostu menemään sinne yksin.  //  Suostuin menemään töihin jouluna						
+					*CONCEPTS*													
+	939			suostutella			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Suostuttelin hänet tulemaan mukaan.						
+					*CONCEPTS*													
+	940			surettaa			Transitive	HEAD:Noun + Case:Partitive				Asia surettaa minua.	Surettaako tämä asia sinua?					
+					*CONCEPTS*													
+	941			surra			Transitive	HEAD:Noun + Case:Partitive				Omaiset surevat vainajaa.						
+					*CONCEPTS*													
+	942			suudella			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Allative			Hän suuteli minua poskelle.						
+					*CONCEPTS*													
+	943			suunnata		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			He suuntasivat matkansa Lappiin, Utsjoelle.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	944			suunnitella			Transitive	HEAD:Noun + Case:Partitive					Lomamatkaa on kiva suunnitella.					
+					*CONCEPTS*													
+	945			suunnitella			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Suunnittelin lähteä torille.				(= aioin)		
+					*CONCEPTS*													
+	948			suuttua			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Mistä hän suuttui minulle? // En ymmärrä, miksi hän suuttui minulle.						
+					*CONCEPTS*													
+	949			suututtaa			Transitive	HEAD:Noun + Case:Partitive				Tämä asia suututtaa minua.						
+					*CONCEPTS*													
+	950			syntyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Lapsi syntyi taksissa.						
+					*CONCEPTS*													
+	951			syntyä		OMISTAMINEN	Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*				syntax-allative-omistaminen									
+	952			syntyä			Intransitive	—	HEAD:Noun + Case:Elative			Ehdotuksesta syntyi riita.						
+					*CONCEPTS*													
+	953			syrjiä			Transitive	HEAD:Noun + Case:Partitive			HEAD:Noun + Case:Inessive	He syrjivät sinua aina.	Naisia syrjitään työelämässä.					
+					*CONCEPTS*													
+	954			syttyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Valot syttyivät käytävään	Tähdet syttyvät taivaalle.					
+					*CONCEPTS*													
+	955			sytyttää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Sytytin kynttilän hänen muistolleen.						
+					*CONCEPTS*													
+	956			syventyä			Intransitive	—	HEAD:Noun + Case:Illative	POS:Verb + INF_FORM:Inf-Ma + Case:Illative		Poika syventyi kirjaan.	Poika syventyi lukemaan.					
+					*CONCEPTS*													
+	957			syyllistyä			Intransitive	—	HEAD:Noun + Case:Illative			En ole koskaan syyllistynyt valehteluun.						
+					*CONCEPTS*													
+	958			syyttää			Transitive	HEAD:Noun + Case:Partitive				Syytät minua.						
+					*CONCEPTS*													
+	959			syyttää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Mistä syytät minua?						
+					*CONCEPTS*													
+	960			syyttää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			Hän syytti minua huolimattomaksi.						
+					*CONCEPTS*													
+	866			säikähtää			Transitive	HEAD:Noun + Case:Partitive				Kissa säikähti kovaa ääntä.						
+					*CONCEPTS*													
+	867			säikähtää			Intransitive	–	HEAD:Noun + Case:Elative			Säikähdin kovasta äänestä.	Mistä tuolla tavalla säikähdit?					
+					*CONCEPTS*													
+	870			säilyttää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Isoisä säilyttää rahojansa pankissa.	Rahat kannattaa säilyttää pankissa, ei sukanvarressa.					
+					*CONCEPTS*													
+	868			säilyä			Intransitive	—	HEAD:Noun + Case:Essive		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive	Hedelmät säilyvät tuoreina jääkaapin alahyllyllä.	Maito säilyy tuoreena kylmässä.					
+					*CONCEPTS*													
+	869		???	säilyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Abessive			Maito säilyy jääkaapissa pilaantumatta.						
+					*CONCEPTS*													
+	877			särkeä			Transitive	HEAD:Noun + Case:Partitive				Päätäni särkee.						
+					*CONCEPTS*													
+	878			särkeä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Särjin peilin kappaleiksi.				(= rikoin)		
+					*CONCEPTS*													
+	857			sääliä			Transitive	HEAD:Noun + Case:Partitive				He säälivät meitä.						
+					*CONCEPTS*													
+	860			säästää			Transitive	HEAD:Noun + Case:Partitive	HEAD:PostPosition + Base:varten + Gov_Case:Partitive			Säästän rahaa asuntoa varten.						
+					*CONCEPTS*													
+	861			säästää		OMISTAMINEN	Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Säästän rahaa omaan asuntoon.						
+					*CONCEPTS*					syntax-allative-omistaminen								
+	862			säästää			Intransitive	—	HEAD:Noun + Case:Inessive				Voin säästää vain ruoassa.			Lari: object		
+					*CONCEPTS*													
+	863			säästyä			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Vain yksi talo säästyi tulipalolta.	Palkasta ei säästy penniäkään.			(= jää)		
+					*CONCEPTS*													
+	961		takuu	taata														
+					*CONCEPTS*													
+	964			tahtoa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Tahdon oppia suomea.						
+					*CONCEPTS*													
+	965			tahtoa			Transitive	HEAD:Noun + Case:Objective				Pekka tahtoo uuden asunnon.						
+					*CONCEPTS*													
+	966			taistella			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive	HEAD:PostPosition + Base:puolesta + Gov_Case:Genitive		Hän taistelee vakavaa sairautta vastaan. // taistelen maani puolesta vihollista vastaan. // Taistelemme vapauden puolesta.						
+					*CONCEPTS*													
+	967			taistella			Intransitive	—	HEAD:Noun + Case:Elative			Sotilaat taistelivat voitosta.						
+					*CONCEPTS*											HEAD:Noun + Case:Partitive		
+	968			taistella			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive	HEAD:PostPosition + Base:puolella + Gov_Case:Genitive		taistelen maani puolella vihollista vastaan. //						
+					*CONCEPTS*													
+	969			taitaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Taidan ostaa auton.				(= luultavasti ostan)		
+					*CONCEPTS*													
+	970			tajuta			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Tajusin olla hiljaa.						
+					*CONCEPTS*													
+	971			tajuta			Transitive	että-lause				Tajuan, että asia on vakava!	Etkö tajua, että asia on vakava?					
+					*CONCEPTS*													
+	972			tallentaa			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	Tallensin konsertin nauhalle.	Tallensin konsertin nauhaan.					
+					*CONCEPTS*													
+	973			tallettaa			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	Talletan rahat pankkiin.	Talletan rahat tililleni.					
+					*CONCEPTS*													
+	974			tapahtua			Intransitive	—			HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive	Mitä kotimaassa kadulla on tapahtunut?	Mitä tuolla kadulla on tapahtunut?					
+					*CONCEPTS*													
+	975			tapahtua		OMISTAMINEN	Intransitive	—	HEAD:Noun + Case:Allative			Mitä sinulle on tapahtunut?						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	976			tapella			Intransitive	—	HEAD:Noun + Case:Elative			Pojat tappelivat pallosta.						
+					*CONCEPTS*													
+	978			tarjoilla			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Äiti tarjoilee juhla-aterian.	Tässä baarissa ei tarjoilla pöytiin.  //  Naisille tarjoillaan ensin, sitten vasta miehille.					
+					*CONCEPTS*													
+	979			tarjota			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Tarjoan sinulle oluen.  //  Tarjosin äidilleni lounaan ravintolassa.						
+					*CONCEPTS*													
+	980			tarjota			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Tarjosin talosta miljoonan.	Tarjosi talosta miljoonan.  //  Mitä tästä autosta tarjotaan?					
+					*CONCEPTS*													
+	981			tarkistaa		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Hän tarkisti verkkopankista tilinsä saldon.	Tarkistakaa kurssin aika opinto-oppaasta tai sihteeriltä.					
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	982			tarkkailla			Transitive	HEAD:Noun + Case:Partitive				Poliisi tarkkailee liikennettä.						
+					*CONCEPTS*													
+	983			tarkoittaa			Transitive	HEAD:Noun + Case:Partitive				Hän tarkoittaa vain hyvää.	Mitä sinä tarkoitat?					
+					*CONCEPTS*													
+	984			tarkoittaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				En tarkoittanut valehdella.	Anteeksi, en tarkoittanut loukata.			(= halunnut), Lari: very limited selection of words in affirmative sentence (only quite fixed "tarkoitin sanoa, että" comes to mind)		
+					*CONCEPTS*													
+	985			tarkoittaa			Transitive	että-lause				Tarkoitatko, että olen tyhmä?						
+					*CONCEPTS*													
+	986			tarttua			Intransitive	—	HEAD:Noun + Case:Illative			Tartu tilaisuuteen!						
+					*CONCEPTS*													
+	987	4.8		tarvita			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Illative	talo tarvitsee uuden katon.	Tarvitsemme rahaa autoon.					
+					*CONCEPTS*													
+	990			tavata			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Tapasin mieheni baarissa.						
+					*CONCEPTS*													
+	993			teettää			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Elative	Teetin kankaasta takin.						
+					*CONCEPTS*													
+	994			tehdä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Aion tehdä takin tuosta kankaasta	Mitä aiot tehdä tuosta kankaasta?					
+					*CONCEPTS*													
+	995			tehdä			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	Tein saunaan uuden penkin.						
+					*CONCEPTS*													
+	996			tehdä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Tein ruoan valmiiksi.						
+					*CONCEPTS*													
+	997			tehostaa			Transitive	HEAD:Noun + Case:Partitive				Poliisi tehostaa valvontaa.						
+					*CONCEPTS*													
+	998			tehota			Intransitive	—	HEAD:Noun + Case:Illative			Antibiootti ei tehoa tähän tautiin.						
+					*CONCEPTS*													
+	999			teititellä			Transitive	HEAD:Noun + Case:Partitive				Hän teititteli minua.						
+					*CONCEPTS*													
+	1000			tervehtiä			Transitive	HEAD:Noun + Case:Partitive				Hän tervehtii minua aina.						
+					*CONCEPTS*													
+	1001			tiedottaa			Intransitive	—	HEAD:Noun + Case:Elative			Asiasta tiedotetaan ensi viikolla.						
+					*CONCEPTS*													
+	1002			tiedottaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Yhtiön pitää tiedottaa lehdistöä nimityksestä.						
+					*CONCEPTS*													
+	1003			tiedustella			Transitive	HEAD:Noun + Case:Partitive				Poliisi tiedusteli asiaa.	Oletko jo tiedustellut matkan hintaa?					
+					*CONCEPTS*													
+	1004			tiedustella		LÄHDE	Transitive	HEAD:Noun + Case:Partitive			HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	Poliisi tiedusteli asiaa koulusta.						
+					*CONCEPTS*						Syntax-ablatiivi-lähde							
+	1005			tietää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Tiedän asiasta vain toisen puolen.	Tiedän asiasta jotakin.					
+					*CONCEPTS*													
+	1006			tietää			Transitive	että-lause				Tiedän, että hän on kotona.						
+					*CONCEPTS*													
+	1007			tilata			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	Tilasimme taksin kotiin.	Tilasimme taksin lentokentälle.					
+					*CONCEPTS*													
+	1008			tilata		LÄHDE	Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	Tilasimme liput matkatoimistosta.	Tilasimme liput taksin asemalta.					
+					*CONCEPTS*						Syntax-ablatiivi-lähde							
+	1009			todeta			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Lääkäri totesi miehen kuolleeksi.						
+					*CONCEPTS*													
+	1010			todeta			Transitive	että-lause				Totesimme, että konetta ei voi korjata.						
+					*CONCEPTS*													
+	1011			todistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Hän todisti väitteen vääräksi.						
+					*CONCEPTS*													
+	1012			todistaa			Transitive	että-lause				Voitko todistaa, että olen väärässä?						
+					*CONCEPTS*													
+	1013			toipua			Intransitive	—		HEAD:Noun + Case:Elative		Hän toipui sairaudesta nopeasti.						
+					*CONCEPTS*													
+	1014			toivoa			Transitive	HEAD:Noun + Case:Partitive				Hän toivoo polkupyörää joululahjaksi.						
+					*CONCEPTS*													
+	1015			toivoa			Transitive	että-lause				Hän toivoo, että saisi polkupyörän lahjaksi.						
+					*CONCEPTS*													
+	1016			toivottaa		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Partitive			HEAD:Noun + Case:Allative	Toivotan teille onnea ja menestystä.	Toivotimme heille hyvää matkaa.					
+					*CONCEPTS*						Syntax-allatiivi-kommunikaatio							
+	1018			totella			Transitive	HEAD:Noun + Case:Partitive				Tottelet minua.						
+					*CONCEPTS*													
+	1019	3.6		tottua			Intransitive	—	HEAD:Noun + Case:Illative			Olen tottunut kasvisruokaan	Oletko jo tottunut suomalaiseen ruokaan?					
+					*CONCEPTS*													
+	1020			tottua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Oletko jo tottunut nousemaan joka aamu klo 6?						
+					*CONCEPTS*													
+	1021			totuttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Vuosi Suomessa on totuttanut minut lumeen ja pakkaseen.						
+					*CONCEPTS*													
+	1022			totuttaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän totutti minut nousemaan aikaisin aamulla.						
+					*CONCEPTS*													
+	1023			tuhlata			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative		Hän tuhlasi rahansa vaatteisiin.						
+					*CONCEPTS*													
+	1024			tuijottaa			Transitive	HEAD:Noun + Case:Partitive				Joku mies tuijotti minua metrossa koko matkan.						
+					*CONCEPTS*													
+	1025			tukea			Transitive	HEAD:Noun + Case:Objective				Hän tuki pyöränsä seinää vasten.	Vanhemmat tukivat lasta kaikessa.					
+					*CONCEPTS*													
+	1026			tulla			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Tulin eilen Lontoosta Helsinkiin.	Tulin eilen Tampereelta Vantaalle.					
+					*CONCEPTS*													
+	1027			tulla			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Tulkaa meille syömään!						
+					*CONCEPTS*													
+	1028	2.3		tulla			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Johtaja tulee syömästä klo 13.						
+					*CONCEPTS*													
+	1030			tulla			Intransitive	—	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Tulin iloiseksi, kun hän soitti.						
+					*CONCEPTS*													
+	1031		???	tulla			Intransitive	—	Surface:toimeen # HEAD:Noun + Case:Genitive			Hän tulee toimeen kaikkien ihmisten kanssa.						
+					*CONCEPTS*													
+	1032		???	tulla			Intransitive	—	Surface:toimeen # HEAD:Noun + Case:Adessive			Suomessa tulee toimeen englannilla.				(= pärjää)		
+					*CONCEPTS*													
+	1034			tunnistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Tunnistin hänet äänestä.						
+					*CONCEPTS*													
+	1035			tunnistaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Poliisi tunnisti ruumiin kadonneeksi mieheksi.						
+					*CONCEPTS*													
+	1036			tuntea			Transitive	HEAD:Noun + Case:Partitive	HEAD:PostPosition + Base:kohtaan + Gov_Case:Partitive			Tunnen sympatiaa häntä kohtaan.						
+					*CONCEPTS*													
+	1037	4.8		tuntea			Transitive	HEAD:Noun + Case:Objective	Surface:itse(nsä) # HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Hän tunsi itsensä hölmöksi.				???		
+					*CONCEPTS*													
+	1038	2.4		tuntua		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / POS:Adjective + Case:Ablative			Miltä tämä tehtävä tuntuu?						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	1039			tuntua		AISTI						Miltä sinusta tuntuu?		??? construction ?		???		
+					*CONCEPTS*													
+	1040			tuoda			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Uusi sohva toi huoneeseen hienostuneen ilmeen. 						
+					*CONCEPTS*													
+	1041			tuoda			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Minä tuon lapset päiväkodista.						
+					*CONCEPTS*													
+	1042			tuoda			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Isä toi lapset koulusta kotiin syömään.						
+					*CONCEPTS*													
+	1043	2.4		tuoksua		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / POS:Adjective + Case:Ablative 			Miltä tämä tuoksuu?						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	1043	2.4		tuoksua		AISTI	Intransitive	—	HEAD:Noun + Case:Allative / POS:Adjective + Case:Allative			Mille tämä tuoksuu?						
+					*CONCEPTS*				Syntax-allatiivi-aisti									
+	1044			tuomita			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Allative		Yleinen mielipide tuomitsi hänet.  //  Tuomari tuomitsi kotijoukkueelle vapaapotkun.	Hänet tuomittiin raiskauksesta.					
+					*CONCEPTS*													
+	1045			tuomita			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Käräjäoikeus tuomitsi miehen vankilaan.	Mies tuomittiin vankilaan kuudeksi vuodeksi.					
+					*CONCEPTS*													
+	1046			tuomita			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Käräjäoikeus tuomitsi miehen maksamaan sakkoja.	Nainen tuomittiin maksamaan 3 000 euroa sakkoa.					
+					*CONCEPTS*													
+	1047			turhautua			Intransitive	—	HEAD:Noun + Case:Illative			Olen turhautunut byrokratiaan.						
+					*CONCEPTS*													
+	1048			turhautua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Olen turhautunut tekemään samaa työtä päivästä toiseen.						
+					*CONCEPTS*													
+	1048			turtua			Intransitive	—	HEAD:Noun + Case:Illative			Kaikkeen turtuu, tähänkin työhön.						
+					*CONCEPTS*													
+	1049			turvautua			Intransitive	—	HEAD:Noun + Case:Illative			Hän turvautui asiantuntijan apuun.						
+					*CONCEPTS*													
+	1050	2.7		tutustua			Intransitive	—	HEAD:Noun + Case:Illative			Liisa tutustui Jussiin Roomassa.						
+					*CONCEPTS*													
+	1051			tykätä			Intransitive	—	HEAD:Noun + Case:Elative			Minä tykkään jazz-musiikista.						
+					*CONCEPTS*													
+	1052			tykätä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Tykkään uida vain lämpimässä vedessä.				Lari: this is quite colloqial		
+					*CONCEPTS*													
+	1053			tykätä			Transitive	! HEAD:Noun + Case:Partitive	! HEAD:Noun + Case:Elative			Tykkään matalaa hänestä				Lari: this is marginal. I can find only two words that fit to object position: kyttyrää / matalaa --> more like an idiom		
+					*CONCEPTS*													
+	1055			tyydyttää			Transitive	HEAD:Noun + Case:Partitive				Tämä ratkaisu tyydyttää meitä.						
+					*CONCEPTS*													
+	1056			tyytyä			Intransitive	—	HEAD:Noun + Case:Illative			Tyydymme tähän päätökseen.						
+					*CONCEPTS*													
+	1054			työntää			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Työnsin tavarat kaappiin.	Työnsin tavarat ylähyllylle.					
+					*CONCEPTS*													
+	962			tähdentää			Transitive	HEAD:Noun + Case:Partitive				Professori tähdensi lähdekritiikin merkitystä.	Haluaisin tähdentää tätä asiaa.					
+					*CONCEPTS*													
+	963			tähdentää			Transitive	että-lause				On syytä tähdentää, että rahaa ei ole enää.						
+					*CONCEPTS*													
+	977			täristä			Intransitive	—	HEAD:Noun + Case:Elative			Poika tärisi kylmästä.						
+					*CONCEPTS*													
+	1017			törmätä			Intransitive	—	HEAD:Noun + Case:Illative			Auto törmäsi puuhun.						
+					*CONCEPTS*													
+	1057			uhata			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Adessive			Hän on uhannut sinua.	He uhkasivat miestä puukolla.					
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	1058			uhata			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Hän uhkasi tappaa minut.						
+					*CONCEPTS*													
+	1059			uhmata			Transitive	HEAD:Noun + Case:Partitive				He uhmasivat vaaraa ja jatkoivat matkaansa.						
+					*CONCEPTS*													
+	1060			uhrata		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			uhrata härkä Juppiterille.	Tähän kilpaurheilulle en uhraa enää aikaa.			Tähän työhön en uhraa enää aikaa.		
+					*CONCEPTS*				syntax-allative-omistaminen									
+	1061			uhrautua			Intransitive	—	HEAD:PostPosition + Base:puolesta + Gov_Case:Genitive			Vanhemmat uhrautuivat lastensa puolesta.				Gen + puolesta / hyväksi;		
+					*CONCEPTS*													
+	1062			uhrautua			Intransitive	—	HEAD:PostPosition + Base:hyväksi + Gov_Case:Genitive			Vanhemmat uhrautuivat lastensa hyväksi.				Gen + puolesta / hyväksi;		
+					*CONCEPTS*													
+	1063			uhrautua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän uhrautui maksamaan Kaarinan laskun.						
+					*CONCEPTS*													
+	1064			ujostella			Transitive	HEAD:Noun + Case:Partitive				Lapsi ujosteli joulupukkia.						
+					*CONCEPTS*													
+	1065			ujostuttaa			Transitive	HEAD:Noun + Case:Partitive				Minua alkoi ujostuttaa: en uskaltanut sanoa mitään.						
+					*CONCEPTS*													
+	1066			ulottua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Verhot ulottuvat katosta lattiaan.	Jono ulottui ovelta lippuluukulle asti.					
+					*CONCEPTS*													
+	1067			uneksia			Intransitive	—	HEAD:Noun + Case:Elative			Hän uneksii lottovoitosta.						
+					*CONCEPTS*													
+	1068			uneksia			Transitive	että-lause				Maija uneksii, että hän saisi lottovoiton.						
+					*CONCEPTS*													
+	1069			unelmoida			Intransitive	—	HEAD:Noun + Case:Elative			Liisa unelmoi rikkaasta miehestä.						
+					*CONCEPTS*													
+	1070			unelmoida			Transitive	että-lause				Liisa unelmoi, että saisi rikkaan miehen.						
+					*CONCEPTS*													
+	1071			unohtaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Unohdin avaimet kotiin.				(=hukata / jättää / unohtaa)		
+					*CONCEPTS*													
+	1072			unohtaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Unohditko taas maksaa laskun ajoissa?						
+					*CONCEPTS*													
+	1073			unohtua			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Unohduin haaveisiini. // Kesävaatteet unohtuivat mökille.						
+					*CONCEPTS*													
+	1074			unohtua			Intransitive	—	HEAD:Noun + Case:Ablative			Unohtuiko sinulta jotakin?						
+					*CONCEPTS*													
+	1075			unohtua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Unohduin katselemaan televisiota ja myöhästyin kurssilta.						
+					*CONCEPTS*													
+	1076			upota			Intransitive	—	HEAD:Noun + Case:Illative			Laiva upposi meren pohjaan.						
+					*CONCEPTS*													
+	1077			upottaa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative		Loukkaantuminen upotti kilpailijan haaveet olympiamitalista.	Jätetynnyrit upotettiin mereen.					
+					*CONCEPTS*													
+	1078			uskaltaa			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Uskallan häiritä häntä.						
+					*CONCEPTS*													
+	1079			uskoa			Transitive	HEAD:Noun + Case:Partitive				Uskon sinua.				(= että puhut totta, että olet oikeassa)		
+					*CONCEPTS*													
+	1080			uskoa			Intransitive	—	HEAD:Noun + Case:Illative			Hän uskoo Jumalaan.						
+					*CONCEPTS*													
+	1081			uskoa			Transitive	että-lause				Hän uskoo, että kaikki järjestyy.						
+					*CONCEPTS*													
+	1082			uskoutua		OMISTAMINEN	Intransitive	—	HEAD:Noun + Case:Allative			Minulle voi uskoutua, en kerro kenellekään.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	1083			vaatia		LÄHDE	Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Ablative		Luonto vaati osansa, ja retkeilijät nukahtivat.	Opettaja vaatii oppilailta liian paljon.					
+					*CONCEPTS*					Syntax-ablatiivi-lähde								
+	1084			vaatia			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Vaadin saada tietää, miten asia on.						
+					*CONCEPTS*													
+	1085			vaatia			Transitive	! HEAD:Noun + Case:Partitive	! POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Opettaja vaati minua tekemään harjoituksen uudestaan.						
+					*CONCEPTS*													
+	1088			vahingoittaa			Transitive	HEAD:Noun + Case:Partitive				Tupakointi vahingoittaa terveyttä.						
+					*CONCEPTS*													
+	1089			vahtia			Transitive	HEAD:Noun + Case:Partitive				Koira vahtii taloa.						
+					*CONCEPTS*													
+	1090			vaihtaa			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Illative	Vaihdoin autoon kesärenkaat.						
+					*CONCEPTS*													
+	1091			vaihtaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Voinko palkinnon vaihtaa rahaksi?						
+					*CONCEPTS*													
+	1092			vaihtua			Intransitive	—	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative / HEAD:Noun + Case:Illative			Kun valo vaihtuu vihreäksi, voit mennä kadun yli.	Kun valo vaihtuu vihreään, voit mennä kadun yli.					
+					*CONCEPTS*													
+	1093			vaikeuttaa			Transitive	HEAD:Noun + Case:Partitive				Rahan puute vaikeutti tutkimusta.						
+					*CONCEPTS*													
+	1094	4.8		vaikuttaa			Intransitive	—	HEAD:Noun + Case:Illative			En voi vaikuttaa asiaan mitenkään.						
+					*CONCEPTS*													
+	1095	2.4		vaikuttaa		AISTI	Intransitive	—	HEAD:Noun + Case:Ablative / POS:Adjective + Case:Ablative			Hän vaikutti tutulta.						
+					*CONCEPTS*				Syntax-ablatiivi-aisti									
+	1096			vainota			Transitive	HEAD:Noun + Case:Partitive				He vainoavat täällä muukalaisia.						
+					*CONCEPTS*													
+	1097			vaipua			Intransitive	—	HEAD:Noun + Case:Illative			Älä vaivu epätoivoon!						
+					*CONCEPTS*													
+	1099			vaivata			Transitive	HEAD:Noun + Case:Partitive				Mikä sinua vaivaa?						
+					*CONCEPTS*													
+	1100			vaivautua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän ei vaivautunut edes sanomaan päivää minulle.						
+					*CONCEPTS*													
+	1101			vajota			Intransitive	—	HEAD:Noun + Case:Illative			Vene vajosi järven pohjaan.						
+					*CONCEPTS*													
+	1102			vakuuttaa		KOMMUNIKAATIO	Transitive	että-lause		HEAD:Noun + Case:Allative		Virkailija vakuutti minulle, että asia hoidetaan.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	1103			vakuuttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Vakuutin talon miljoonasta eurosta.	Talomme on vakuutettu miljoonasta eurosta.					
+					*CONCEPTS*													
+	1104			vakuuttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative / POS:Adjective + Case:Translative			Edellä antamani tiedot vakuutan oikeiksi.						
+					*CONCEPTS*													
+	1105			valehdella		KOMMUNIKAATIO	Intransitive	—	HEAD:Noun + Case:Allative			Älä valehtele minulle!						
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	1106			valita			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Valitsimme hänet presidentiksi.						
+					*CONCEPTS*													
+	1107			valita		(+minen)	Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Valitsimme Kosken johtamaan kokousta. // Valitsin vapaaehtoisesti maalla asumisen.						
+					*CONCEPTS*													
+	1109			valittaa			Transitive	HEAD:Noun + Case:Partitive				Hän valitti päänsärkyä.						
+					*CONCEPTS*													
+	1110			valittaa			Intransitive	—	HEAD:Noun + Case:Elative			Hän valittaa aina kaikesta.						
+					*CONCEPTS*													
+	1111			valittaa		KOMMUNIKAATIO	Intransitive	—	HEAD:Noun + Case:Elative	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative								
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	1114	4.8		valmistautua			Intransitive	—	HEAD:Noun + Case:Illative			Millä tavalla voisin valmistautua tenttiin?						
+					*CONCEPTS*													
+	1115			valmistautua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän valmistautui lähtemään matkalle.						
+					*CONCEPTS*													
+	1116	2.7		valmistua			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Hän valmistui insinööriksi.						
+					*CONCEPTS*													
+	1117	2.7		valmistua			Intransitive	—	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Hän valmistui teknillisestä korkeakoulusta.	Hän valmistui maalarikurssilta.					
+					*CONCEPTS*													
+	1122			valvoa			Transitive	HEAD:Noun + Case:Partitive				Poliisi valvoo liikennettä.						
+					*CONCEPTS*													
+	1123			vapauttaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative			Poliisi vapautti miehen vankilasta.						
+					*CONCEPTS*													
+	1124			vapautua			Intransitive	—	HEAD:Noun + Case:Elative			Hän vapautuu vankilasta vuoden kuluttua.						
+					*CONCEPTS*													
+	1125			vapista			Intransitive	—	HEAD:Noun + Case:Elative			Koira vapisi kylmästä.						
+					*CONCEPTS*													
+	1126			varastaa			Transitive	HEAD:Noun + Case:Objective			HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative	Poika varasti lompakon turistin taskusta.	Poika varasti lompakon minulta.					
+					*CONCEPTS*													
+	1127			varata		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		Varasi ajan lääkärin vastaanotolle.  //  Matkatoimisto varaa itselleen oikeuden ohjelmanmuutoksiin.	Huone on varattu tupakoiville.  //  Huone on varattu opiskelijoiden käyttöön.					
+					*CONCEPTS*					syntax-allative-omistaminen								
+	1128			varata			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative		Varasin liput ensimmäiseltä riviltä.  //  Varasin pöydän jostakin ravintolasta.	Varataan liput ensimmäiseltä riviltä.  //  Varataan pöytä jostakin ravintolasta.					
+					*CONCEPTS*													
+	1129			varautua			Intransitive	—	HEAD:Noun + Case:Illative			Varautukaa pahimpaan!						
+					*CONCEPTS*													
+	1130			varautua			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Olen varautunut lähtemään heti, kun pyydetään.						
+					*CONCEPTS*													
+	1131			varjella		ESTE	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Ablative			Varjelemme luontoa saastumiselta.						
+					*CONCEPTS*				syntax-ablative-este									
+	1132			varjella			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Varjelen tätä kasvia kuivumasta.						
+					*CONCEPTS*													
+	1133			varmistaa		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Varmistin rehtorilta, että näin voi tehdä.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	1134			varmistua			Intransitive	—	HEAD:Noun + Case:Elative			Varmistu siitä, että asia on totta!						
+					*CONCEPTS*													
+	1135			varoa			Transitive	HEAD:Noun + Case:Partitive				Varomme vihaista koiraa.						
+					*CONCEPTS*													
+	1136			varoa			Transitive	POS:Verb + INF_FORM:Inf-Ma + Case:Elative				Varomme tekemästä virheitä.						
+					*CONCEPTS*													
+	1137			varoittaa			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Elative			Varoitan sinua.	Varoitin sinua tästä.					
+					*CONCEPTS*													
+	1138			varoittaa			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Varoitin lapsia menemästä rantaan.						
+					*CONCEPTS*													
+	1139			vartioida			Transitive	HEAD:Noun + Case:Partitive				Koira vartioi taloa.						
+					*CONCEPTS*													
+	1140			vastata		KOMMUNIKAATIO	Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Vastatkaa kysymykseen!	Vastatkaa minulle!					
+					*CONCEPTS*				Syntax-allatiivi-kommunikaatio									
+	1141			vastata			Intransitive	—	HEAD:Noun + Case:Elative			Jokainen vastaa omista teoistaan.// Ne vastaavat siitä, että niiden tuotteet vastaavat voimassa olevia EU:n määräyksiä						
+					*CONCEPTS*													
+	1141			vastata		??? different sense	Transitive	HEAD:Noun + Case:Partitive				Yksi kuponki vastaa yhtä palvelua						
+					*CONCEPTS*													
+	1142			vastustaa		(+minen)	Transitive	HEAD:Noun + Case:Partitive				Vastustatte minua. // Vastustamme ydinvoimalan rakentamista.						
+					*CONCEPTS*													
+	1148			vedota			Intransitive	—	HEAD:Noun + Case:Illative			Tuo mainos vetoaa nuorisoon.						
+					*CONCEPTS*													
+	1149			velvoittaa			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Velvoitan teidät tulemaan paikalle ajoissa.						
+					*CONCEPTS*													
+	1150			verrata			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Illative			Häntä on verrattu Staliniin.	verrata avioliittoa orjuuteen				Vertaa hintaa laatuun!	
+					*CONCEPTS*													
+	1151			viedä		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*				syntax-allative-omistaminen									
+	1152			viedä			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative									
+					*CONCEPTS*													
+	1153			viedä			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän vie meidät illalla ulos syömään.						
+					*CONCEPTS*													
+	1154			vierailla			Intransitive	—		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Vierailimme monessa perheessä.	Vierailimme monella paikkakunnalla.					
+					*CONCEPTS*													
+	1155	2.6		viettää			Transitive	HEAD:Noun + Case:Partitive				Vietämme joulua. // Lapset viettivät paljon aikaa mummolassa.						
+					*CONCEPTS*													
+	1156			viettää			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive		Vietimme joulun Lapissa. // Vietimme yön parvekkeella.						
+					*CONCEPTS*													
+	1157			vihata		(+minen)	Transitive	HEAD:Noun + Case:Partitive				Vihaan häntä. // Vihaan vaatteiden silittämistä.						
+					*CONCEPTS*													
+	1159			viihdyttää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Adessive			Yritin viihdyttää vierasta anekdooteilla.	Hän viihdytti meitä hauskoilla jutuillaan					
+					*CONCEPTS*													
+	1160			viihdyttää			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-Ma + Case:Adessive			Yritin viihdyttää vierasta laulamalla joululauluja.						
+					*CONCEPTS*													
+	1161	2.7		viihtyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Viihdytkö uudessa työpaikassasi?	Viihdytkö uudessa maalla?					
+					*CONCEPTS*													
+	1162			viipyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Viivyn Suomessa.	Viivyn matkalla vain pari viikkoa.					
+					*CONCEPTS*													
+	1163			viitata			Intransitive	—	HEAD:Noun + Case:Illative			Ministeri viittasi tähän asiaan.						
+					*CONCEPTS*													
+	1164			viitsiä			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				En viitsi nousta niin aikaisin.						
+					*CONCEPTS*													
+	1165			viivyttää			Transitive	HEAD:Noun + Case:Partitive				Kova tuuli viivytti laivan lähtöä.						
+					*CONCEPTS*													
+	1166			vilkaista			Transitive	HEAD:Noun + Case:Partitive				Voisin vilkaista tätä tekstiä.						
+					*CONCEPTS*													
+	1167			vilkaista			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative		HEAD:Noun + Case:Elative	Hän vilkaisi minuun.	Hän vilkaisi ikkunasta kadulle.					
+					*CONCEPTS*													
+	1168			vilkuttaa		KOMMUNIKAATIO	Transitive	HEAD:Noun + Case:Partitive		HEAD:Noun + Case:Allative		Keltaista vilkuttavat liikennevalot.  //  Vilkuttaa lampulla hätämerkkiä.						
+					*CONCEPTS*					Syntax-allatiivi-kommunikaatio								
+	1169			vilkuttaa		KOMMUNIKAATIO	Intransitive	—				Lapset vilkuttivat meille.						
+					*CONCEPTS*													
+	1171			virkistyä			Intransitive	—	HEAD:Noun + Case:Elative			He virkistyivät lomamatkasta.						
+					*CONCEPTS*													
+	1170			virkistää			Transitive	HEAD:Noun + Case:Partitive				Lomamatka virkisti heitä						
+					*CONCEPTS*													
+	1172			voida		MODAL	Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Olot, joissa puu voi kasvaa.  //  Asia voidaan vielä hoitaa.	Koska täällä ei ole pianoa, en voi nyt soittaa.  //  Potilasta ei voitu pelastaa.					
+					*CONCEPTS*													
+	1173			voida XXX		OMISTAMINEN	Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun + Case:Allative			Minkä minä sille voin, että ihmiset juoruavat.  //  Taudille eivät lääkäritkään voineet mitään.	Tälle asialle en voi yhtään mitään.			Lari: this is quite special use. I cannot invent examples where obejct would not be pronoun		
+					*CONCEPTS*				syntax-allative-omistaminen									
+	1174			voittaa			Transitive	HEAD:Noun + Case:Objective		HEAD:Noun + Case:Inessive		Voitti lotossa miljoonan.	Viivytteli voittaakseen aikaa.				Mies voitti paljon rahaa lotossa.	
+					*CONCEPTS*													
+	1175			voittaa			Intransitive	—		HEAD:Noun + Case:Inessive		demokraatit voittivat vaaleissa.  //  en koskaan voita korttipelissä.						
+					*CONCEPTS*													
+	1176			voittaa			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Adessive	HEAD:Noun + Case:Inessive		vienti voitti tuonnin.  //  He voittivat mestaruuden helposti.	Voitti vastustajansa viidellä pisteellä.  //  Voitti kolmannen palkinnon suunnittelukilpailussa.					
+					*CONCEPTS*													
+	1177			vuokrata		OMISTAMINEN	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Allative			He vuokrasivat huoneen kahdelle opiskelijalle.						
+					*CONCEPTS*				syntax-allative-omistaminen									
+	1178			vuokrata		LÄHDE	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Elative / HEAD:Noun + Case:Ablative			Vuokrasin sahan rautakaupasta. // Vuokrasin tallipaikan hevostilalta.						
+					*CONCEPTS*				Syntax-ablatiivi-lähde									
+	1087			vähetä			Intransitive	—	HEAD:Noun + Case:Illative			Läänien määrä väheni viiteen.				(=vähetä,vähentyä)		
+					*CONCEPTS*													
+	1086			vähentää			Transitive	HEAD:Noun + Case:Partitive				Yritän vähentää tupakanpolttoa.				(= rajoittaa, vähentää)		
+					*CONCEPTS*													
+	1098			väitellä			Intransitive	—	HEAD:Noun + Case:Elative	HEAD:PostPosition + Base:kanssa + Gov_Case:Genitive		He väittelivät politiikasta minun kanssani koko illan.						
+					*CONCEPTS*													
+	1112			välittää			Intransitive	—	HEAD:Noun + Case:Elative			Pienistä virheistä ei kannata välittää.				was TR		
+					*CONCEPTS*													
+	1113			välittää			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				En välitä lähteä nyt ulos.				(= viitsi)		
+					*CONCEPTS*													
+	1120			välttyä		EPÄTOIVOTTU-A	Intransitive	—	HEAD:Noun + Case:Ablative			Poika välttyi rangaistukselta.						
+					*CONCEPTS*				Syntax-ablative-epatoivottu-katsoja									
+	1121			välttyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Julia välttyi joutumasta vankilaan.						
+					*CONCEPTS*													
+	1118			välttää			Transitive	HEAD:Noun + Case:Partitive				Yritän välttää samaa virhettä.						
+					*CONCEPTS*													
+	1119			välttää			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Elative			Vältän tekemästä samoja virheitä uudestaan.						
+					*CONCEPTS*													
+	1147			väsyttää			Transitive	HEAD:Noun + Case:Partitive	POS:Verb + INF_FORM:Inf-A + Case:Lative			Minua väsyttää tehdä kotitöitä joka päivä.	Minua väsyttää.			(= kyllästyttää)		
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	1144			väsyä			Intransitive	—	HEAD:Noun + Case:Elative			Väsyn helposti oluesta.						
+					*CONCEPTS*													
+	1145			väsyä			Intransitive	—	HEAD:Noun + Case:Illative			He väsyivät miehen puheisiin.				(= kyllästyttää)		
+					*CONCEPTS*													
+	1146			väsyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			He väsyivät kuuntelemaan miehen puheita.						
+					*CONCEPTS*													
+	1180			yhdistyä			Intransitive	—	HEAD:Noun-ONLY + Case:Translative			Maat yhdistyivät yhtenäiseksi valtioksi.						
+					*CONCEPTS*													
+	1179	4.4		yhdistää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative			Silta yhdistää saaren mantereeseen.  //  Yhdistän puhelun johtajalle.						
+					*CONCEPTS*													
+	1181			yhtyä			Intransitive	—	HEAD:Noun + Case:Illative			Yhdyn edelliseen puhujaan.				(= olla samaa mieltä kuin jku)		
+					*CONCEPTS*													
+	1182			ylentää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative	HEAD:Noun + Case:Elative		Hänet on ylennetty kenraaliksi.	Kenraali ylensi upseerin kapteenista majuriksi.					
+					*CONCEPTS*													
+	1184			ylettyä			Intransitive	—	HEAD:Noun + Case:Illative / HEAD:Noun + Case:Allative									
+					*CONCEPTS*													
+	1185			ylettyä			Intransitive	—	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Yletytkö ottamaan kirjan tuolta hyllyltä?						
+					*CONCEPTS*													
+	1183			yletä			Intransitive	—	HEAD:Noun-ONLY + Case:Translative	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Hän yleni armeijassa kenraaliksi.					
+					*CONCEPTS*													
+	1186			ylistää			Transitive	HEAD:Noun + Case:Partitive				Kaikki ylistävät kirjailijan uutta teosta.						
+					*CONCEPTS*													
+	1191			yllyttää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Illative			Hän yllytti työläiset kapinaan.						
+					*CONCEPTS*													
+	1192			yllyttää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Illative			Hän yllytti meidät opiskelemaan suomea.						
+					*CONCEPTS*													
+	1187			ylläpitää			Transitive	HEAD:Noun + Case:Partitive				Poliisin tehtävä on ylläpitää järjestystä.				Poliisin tehtävä on pitää yllä järjestystä.		
+					*CONCEPTS*													
+	1190			yllättyä			Intransitive	—	HEAD:Noun + Case:Elative			Äiti yllättyi lasten lahjasta.						
+					*CONCEPTS*													
+	1188			yllättää		KEINO/VÄLINE 	Transitive	HEAD:Noun + Case:Objective	HEAD:Noun + Case:Adessive			Hän yllätti minut iloisesti puhelinsoitolla.	hän ei yllättänyt minua.					
+					*CONCEPTS*				Syntax-adessiivi-keino-väline									
+	1189			yllättää			Transitive	HEAD:Noun + Case:Objective	POS:Verb + INF_FORM:Inf-Ma + Case:Adessive			Lapset yllättivät äidin leipomalla hänelle kakun.						
+					*CONCEPTS*													
+	1193			ylpeillä			Intransitive	—	HEAD:Noun + Case:Elative			Hän ylpeili hyvästä todistuksestaan.						
+					*CONCEPTS*													
+	1194			ymmärtää			Transitive	HEAD:Noun + Case:Objective				Ymmärrän tarinan.						
+					*CONCEPTS*													
+	1195			ymmärtää			Transitive	HEAD:Noun + Case:Partitive				Ymmärrätte minua.				(= mitä minä sanon)		
+					*CONCEPTS*													
+	1196			ymmärtää			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Ymmärsin olla hiljaa.						
+					*CONCEPTS*													
+	1197			ymmärtää			Transitive	että-lause				Ymmärrän hyvin, että olet väsynyt.						
+					*CONCEPTS*													
+	1199			yrittää			Transitive	POS:Verb + INF_FORM:Inf-A + Case:Lative				Yritän tehdä työni niin hyvin kuin mahdollista.						
+					*CONCEPTS*													
+	1201			yskittää			Transitive	HEAD:Noun + Case:Partitive				Minua yskittää.						
+					*CONCEPTS*													
+	1203			yöpyä			Intransitive	—	HEAD:Noun + Case:Inessive / HEAD:Noun + Case:Adessive			Yövyimme laavussa. // Yövyimme taivasalla. 						
+					*CONCEPTS*													
+	1205			ärsyttää			Transitive	HEAD:Noun + Case:Partitive				Pesuaine ärsyttää ihoa.				Minua ärsyttää, että aina on kiire		
+					*CONCEPTS*			Syntax-tunnekausatiivi-object										
+	1207			äänestää			Transitive	HEAD:Noun + Case:Partitive	HEAD:Noun-ONLY + Case:Translative			äänestin häntä.	äänestin häntä puheenjohtajaksi.					
+					*CONCEPTS*													
+	1209			äänestää			Intransitive	—	HEAD:Noun + Case:Elative			Hallitus äänesti asiasta.						
+					*CONCEPTS*													
+	1211			äänestää			Transitive	HEAD:Noun + Case:Objective	HEAD:Noun-ONLY + Case:Translative			Äänestimme Liisan puheenjohtajaksi.						
+					*CONCEPTS*													
+	1213			äänestää			Intransitive	—	HEAD:PostPosition + Base:vastaan + Gov_Case:Partitive			Kaikki äänestivät tätä esitystä vastaan.						
+					*CONCEPTS*													
+	1215			äänestää			Intransitive	—	HEAD:PostPosition + Base:puolesta + Gov_Case:Genitive			Äänestin esityksen puolesta.	Äänestin esityksen puolesta.					
+					*CONCEPTS*													
+	1217			leipoa														
+					*CONCEPTS*													
