@@ -20,7 +20,7 @@ Rules for arguments and object generally follow a key-value syntax.
 ## Citation
 
 ```
-@inproceedings{luoma-etal-2020-broad,
+@inproceedings{jue-lrec-2024-what,
     title = "What do Transformers Know about Government?",
     author = {Jue Hou, Anasia Katinskaia, Lari Kotilainen, Sathianpong Trangcasanchai, Anh-Duc Vu and Roman Yangarber},
     booktitle = "Proceedings of The 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation",
